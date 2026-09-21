@@ -1,0 +1,9602 @@
+{
+  "something": {
+    "rank": 1,
+    "cefr": "A2"
+  },
+  "good": {
+    "rank": 2,
+    "cefr": "A2"
+  },
+  "come": {
+    "rank": 3,
+    "cefr": "A2"
+  },
+  "love": {
+    "rank": 4,
+    "cefr": "A2"
+  },
+  "under": {
+    "rank": 5,
+    "cefr": "A2"
+  },
+  "look": {
+    "rank": 6,
+    "cefr": "A2"
+  },
+  "since": {
+    "rank": 7,
+    "cefr": "A2"
+  },
+  "every": {
+    "rank": 8,
+    "cefr": "A2"
+  },
+  "must": {
+    "rank": 9,
+    "cefr": "A2"
+  },
+  "always": {
+    "rank": 10,
+    "cefr": "A2"
+  },
+  "little": {
+    "rank": 11,
+    "cefr": "A2"
+  },
+  "old": {
+    "rank": 12,
+    "cefr": "A2"
+  },
+  "another": {
+    "rank": 13,
+    "cefr": "A2"
+  },
+  "during": {
+    "rank": 14,
+    "cefr": "A2"
+  },
+  "find": {
+    "rank": 15,
+    "cefr": "A2"
+  },
+  "high": {
+    "rank": 16,
+    "cefr": "A2"
+  },
+  "home": {
+    "rank": 17,
+    "cefr": "A2"
+  },
+  "place": {
+    "rank": 18,
+    "cefr": "A2"
+  },
+  "around": {
+    "rank": 19,
+    "cefr": "A2"
+  },
+  "own": {
+    "rank": 20,
+    "cefr": "A2"
+  },
+  "state": {
+    "rank": 21,
+    "cefr": "A2"
+  },
+  "each": {
+    "rank": 22,
+    "cefr": "A2"
+  },
+  "give": {
+    "rank": 23,
+    "cefr": "A2"
+  },
+  "help": {
+    "rank": 24,
+    "cefr": "A2"
+  },
+  "thing": {
+    "rank": 25,
+    "cefr": "A2"
+  },
+  "again": {
+    "rank": 26,
+    "cefr": "A2"
+  },
+  "against": {
+    "rank": 27,
+    "cefr": "A2"
+  },
+  "game": {
+    "rank": 28,
+    "cefr": "A2"
+  },
+  "school": {
+    "rank": 29,
+    "cefr": "A2"
+  },
+  "without": {
+    "rank": 30,
+    "cefr": "A2"
+  },
+  "end": {
+    "rank": 31,
+    "cefr": "A2"
+  },
+  "government": {
+    "rank": 32,
+    "cefr": "A2"
+  },
+  "house": {
+    "rank": 33,
+    "cefr": "A2"
+  },
+  "next": {
+    "rank": 34,
+    "cefr": "A2"
+  },
+  "please": {
+    "rank": 35,
+    "cefr": "A2"
+  },
+  "god": {
+    "rank": 36,
+    "cefr": "A2"
+  },
+  "ever": {
+    "rank": 37,
+    "cefr": "A2"
+  },
+  "family": {
+    "rank": 38,
+    "cefr": "A2"
+  },
+  "feel": {
+    "rank": 39,
+    "cefr": "A2"
+  },
+  "may": {
+    "rank": 40,
+    "cefr": "A2"
+  },
+  "put": {
+    "rank": 41,
+    "cefr": "A2"
+  },
+  "however": {
+    "rank": 42,
+    "cefr": "A2"
+  },
+  "name": {
+    "rank": 43,
+    "cefr": "A2"
+  },
+  "number": {
+    "rank": 44,
+    "cefr": "A2"
+  },
+  "second": {
+    "rank": 45,
+    "cefr": "A2"
+  },
+  "show": {
+    "rank": 46,
+    "cefr": "A2"
+  },
+  "leave": {
+    "rank": 47,
+    "cefr": "A2"
+  },
+  "big": {
+    "rank": 48,
+    "cefr": "A2"
+  },
+  "keep": {
+    "rank": 49,
+    "cefr": "A2"
+  },
+  "night": {
+    "rank": 50,
+    "cefr": "A2"
+  },
+  "sure": {
+    "rank": 51,
+    "cefr": "A2"
+  },
+  "set": {
+    "rank": 52,
+    "cefr": "A2"
+  },
+  "team": {
+    "rank": 53,
+    "cefr": "A2"
+  },
+  "until": {
+    "rank": 54,
+    "cefr": "A2"
+  },
+  "away": {
+    "rank": 55,
+    "cefr": "A2"
+  },
+  "call": {
+    "rank": 56,
+    "cefr": "A2"
+  },
+  "case": {
+    "rank": 57,
+    "cefr": "A2"
+  },
+  "day": {
+    "rank": 58,
+    "cefr": "A2"
+  },
+  "different": {
+    "rank": 59,
+    "cefr": "A2"
+  },
+  "group": {
+    "rank": 60,
+    "cefr": "A2"
+  },
+  "money": {
+    "rank": 61,
+    "cefr": "A2"
+  },
+  "let": {
+    "rank": 62,
+    "cefr": "A2"
+  },
+  "someone": {
+    "rank": 63,
+    "cefr": "A2"
+  },
+  "think": {
+    "rank": 64,
+    "cefr": "A2"
+  },
+  "already": {
+    "rank": 65,
+    "cefr": "A2"
+  },
+  "city": {
+    "rank": 66,
+    "cefr": "A2"
+  },
+  "play": {
+    "rank": 67,
+    "cefr": "A2"
+  },
+  "public": {
+    "rank": 68,
+    "cefr": "A2"
+  },
+  "system": {
+    "rank": 69,
+    "cefr": "A2"
+  },
+  "do": {
+    "rank": 70,
+    "cefr": "A2"
+  },
+  "few": {
+    "rank": 71,
+    "cefr": "A2"
+  },
+  "national": {
+    "rank": 72,
+    "cefr": "A2"
+  },
+  "real": {
+    "rank": 73,
+    "cefr": "A2"
+  },
+  "free": {
+    "rank": 74,
+    "cefr": "A2"
+  },
+  "have": {
+    "rank": 75,
+    "cefr": "A2"
+  },
+  "person": {
+    "rank": 76,
+    "cefr": "A2"
+  },
+  "change": {
+    "rank": 77,
+    "cefr": "A2"
+  },
+  "general": {
+    "rank": 78,
+    "cefr": "A2"
+  },
+  "lot": {
+    "rank": 79,
+    "cefr": "A2"
+  },
+  "point": {
+    "rank": 80,
+    "cefr": "A2"
+  },
+  "time": {
+    "rank": 81,
+    "cefr": "A2"
+  },
+  "woman": {
+    "rank": 82,
+    "cefr": "A2"
+  },
+  "yet": {
+    "rank": 83,
+    "cefr": "A2"
+  },
+  "anything": {
+    "rank": 84,
+    "cefr": "A2"
+  },
+  "care": {
+    "rank": 85,
+    "cefr": "A2"
+  },
+  "four": {
+    "rank": 86,
+    "cefr": "A2"
+  },
+  "include": {
+    "rank": 87,
+    "cefr": "A2"
+  },
+  "nothing": {
+    "rank": 88,
+    "cefr": "A2"
+  },
+  "today": {
+    "rank": 89,
+    "cefr": "A2"
+  },
+  "water": {
+    "rank": 90,
+    "cefr": "A2"
+  },
+  "bad": {
+    "rank": 91,
+    "cefr": "A2"
+  },
+  "business": {
+    "rank": 92,
+    "cefr": "A2"
+  },
+  "child": {
+    "rank": 93,
+    "cefr": "A2"
+  },
+  "company": {
+    "rank": 94,
+    "cefr": "A2"
+  },
+  "everything": {
+    "rank": 95,
+    "cefr": "A2"
+  },
+  "live": {
+    "rank": 96,
+    "cefr": "A2"
+  },
+  "mean": {
+    "rank": 97,
+    "cefr": "A2"
+  },
+  "once": {
+    "rank": 98,
+    "cefr": "A2"
+  },
+  "power": {
+    "rank": 99,
+    "cefr": "A2"
+  },
+  "thank": {
+    "rank": 100,
+    "cefr": "A2"
+  },
+  "tell": {
+    "rank": 101,
+    "cefr": "A2"
+  },
+  "country": {
+    "rank": 102,
+    "cefr": "A2"
+  },
+  "enough": {
+    "rank": 103,
+    "cefr": "A2"
+  },
+  "follow": {
+    "rank": 104,
+    "cefr": "A2"
+  },
+  "get": {
+    "rank": 105,
+    "cefr": "A2"
+  },
+  "head": {
+    "rank": 106,
+    "cefr": "A2"
+  },
+  "late": {
+    "rank": 107,
+    "cefr": "A2"
+  },
+  "see": {
+    "rank": 108,
+    "cefr": "A2"
+  },
+  "small": {
+    "rank": 109,
+    "cefr": "A2"
+  },
+  "start": {
+    "rank": 110,
+    "cefr": "A2"
+  },
+  "take": {
+    "rank": 111,
+    "cefr": "A2"
+  },
+  "top": {
+    "rank": 112,
+    "cefr": "A2"
+  },
+  "go": {
+    "rank": 113,
+    "cefr": "A2"
+  },
+  "base": {
+    "rank": 114,
+    "cefr": "A2"
+  },
+  "far": {
+    "rank": 115,
+    "cefr": "A2"
+  },
+  "law": {
+    "rank": 116,
+    "cefr": "A2"
+  },
+  "less": {
+    "rank": 117,
+    "cefr": "A2"
+  },
+  "make": {
+    "rank": 118,
+    "cefr": "A2"
+  },
+  "music": {
+    "rank": 119,
+    "cefr": "A2"
+  },
+  "order": {
+    "rank": 120,
+    "cefr": "A2"
+  },
+  "party": {
+    "rank": 121,
+    "cefr": "A2"
+  },
+  "though": {
+    "rank": 122,
+    "cefr": "A2"
+  },
+  "week": {
+    "rank": 123,
+    "cefr": "A2"
+  },
+  "full": {
+    "rank": 124,
+    "cefr": "A2"
+  },
+  "hard": {
+    "rank": 125,
+    "cefr": "A2"
+  },
+  "man": {
+    "rank": 126,
+    "cefr": "A2"
+  },
+  "war": {
+    "rank": 127,
+    "cefr": "A2"
+  },
+  "yes": {
+    "rank": 128,
+    "cefr": "A2"
+  },
+  "read": {
+    "rank": 129,
+    "cefr": "A2"
+  },
+  "side": {
+    "rank": 130,
+    "cefr": "A2"
+  },
+  "stop": {
+    "rank": 131,
+    "cefr": "A2"
+  },
+  "support": {
+    "rank": 132,
+    "cefr": "A2"
+  },
+  "believe": {
+    "rank": 133,
+    "cefr": "A2"
+  },
+  "line": {
+    "rank": 134,
+    "cefr": "A2"
+  },
+  "open": {
+    "rank": 135,
+    "cefr": "A2"
+  },
+  "area": {
+    "rank": 136,
+    "cefr": "A2"
+  },
+  "important": {
+    "rank": 137,
+    "cefr": "A2"
+  },
+  "run": {
+    "rank": 138,
+    "cefr": "A2"
+  },
+  "use": {
+    "rank": 139,
+    "cefr": "A2"
+  },
+  "whole": {
+    "rank": 140,
+    "cefr": "A2"
+  },
+  "five": {
+    "rank": 141,
+    "cefr": "A2"
+  },
+  "international": {
+    "rank": 142,
+    "cefr": "A2"
+  },
+  "try": {
+    "rank": 143,
+    "cefr": "A2"
+  },
+  "white": {
+    "rank": 144,
+    "cefr": "A2"
+  },
+  "course": {
+    "rank": 145,
+    "cefr": "A2"
+  },
+  "early": {
+    "rank": 146,
+    "cefr": "A2"
+  },
+  "face": {
+    "rank": 147,
+    "cefr": "A2"
+  },
+  "job": {
+    "rank": 148,
+    "cefr": "A2"
+  },
+  "say": {
+    "rank": 149,
+    "cefr": "A2"
+  },
+  "social": {
+    "rank": 150,
+    "cefr": "A2"
+  },
+  "together": {
+    "rank": 151,
+    "cefr": "A2"
+  },
+  "unite": {
+    "rank": 152,
+    "cefr": "A2"
+  },
+  "within": {
+    "rank": 153,
+    "cefr": "A2"
+  },
+  "work": {
+    "rank": 154,
+    "cefr": "A2"
+  },
+  "young": {
+    "rank": 155,
+    "cefr": "A2"
+  },
+  "actually": {
+    "rank": 156,
+    "cefr": "A2"
+  },
+  "american": {
+    "rank": 157,
+    "cefr": "A2"
+  },
+  "black": {
+    "rank": 158,
+    "cefr": "A2"
+  },
+  "kind": {
+    "rank": 159,
+    "cefr": "A2"
+  },
+  "mind": {
+    "rank": 160,
+    "cefr": "A2"
+  },
+  "fact": {
+    "rank": 161,
+    "cefr": "A2"
+  },
+  "least": {
+    "rank": 162,
+    "cefr": "A2"
+  },
+  "per": {
+    "rank": 163,
+    "cefr": "A2"
+  },
+  "service": {
+    "rank": 164,
+    "cefr": "A2"
+  },
+  "able": {
+    "rank": 165,
+    "cefr": "A2"
+  },
+  "become": {
+    "rank": 166,
+    "cefr": "A2"
+  },
+  "car": {
+    "rank": 167,
+    "cefr": "A2"
+  },
+  "death": {
+    "rank": 168,
+    "cefr": "A2"
+  },
+  "everyone": {
+    "rank": 169,
+    "cefr": "A2"
+  },
+  "food": {
+    "rank": 170,
+    "cefr": "A2"
+  },
+  "information": {
+    "rank": 171,
+    "cefr": "A2"
+  },
+  "level": {
+    "rank": 172,
+    "cefr": "A2"
+  },
+  "local": {
+    "rank": 173,
+    "cefr": "A2"
+  },
+  "often": {
+    "rank": 174,
+    "cefr": "A2"
+  },
+  "others": {
+    "rank": 175,
+    "cefr": "A2"
+  },
+  "several": {
+    "rank": 176,
+    "cefr": "A2"
+  },
+  "true": {
+    "rank": 177,
+    "cefr": "A2"
+  },
+  "control": {
+    "rank": 178,
+    "cefr": "A2"
+  },
+  "friend": {
+    "rank": 179,
+    "cefr": "A2"
+  },
+  "half": {
+    "rank": 180,
+    "cefr": "A2"
+  },
+  "maybe": {
+    "rank": 181,
+    "cefr": "A2"
+  },
+  "news": {
+    "rank": 182,
+    "cefr": "A2"
+  },
+  "problem": {
+    "rank": 183,
+    "cefr": "A2"
+  },
+  "air": {
+    "rank": 184,
+    "cefr": "A2"
+  },
+  "body": {
+    "rank": 185,
+    "cefr": "A2"
+  },
+  "book": {
+    "rank": 186,
+    "cefr": "A2"
+  },
+  "guy": {
+    "rank": 187,
+    "cefr": "A2"
+  },
+  "hand": {
+    "rank": 188,
+    "cefr": "A2"
+  },
+  "health": {
+    "rank": 189,
+    "cefr": "A2"
+  },
+  "hope": {
+    "rank": 190,
+    "cefr": "A2"
+  },
+  "human": {
+    "rank": 191,
+    "cefr": "A2"
+  },
+  "know": {
+    "rank": 192,
+    "cefr": "A2"
+  },
+  "large": {
+    "rank": 193,
+    "cefr": "A2"
+  },
+  "president": {
+    "rank": 194,
+    "cefr": "A2"
+  },
+  "talk": {
+    "rank": 195,
+    "cefr": "A2"
+  },
+  "almost": {
+    "rank": 196,
+    "cefr": "A2"
+  },
+  "court": {
+    "rank": 197,
+    "cefr": "A2"
+  },
+  "history": {
+    "rank": 198,
+    "cefr": "A2"
+  },
+  "hour": {
+    "rank": 199,
+    "cefr": "A2"
+  },
+  "lose": {
+    "rank": 200,
+    "cefr": "A2"
+  },
+  "member": {
+    "rank": 201,
+    "cefr": "A2"
+  },
+  "possible": {
+    "rank": 202,
+    "cefr": "A2"
+  },
+  "season": {
+    "rank": 203,
+    "cefr": "A2"
+  },
+  "south": {
+    "rank": 204,
+    "cefr": "A2"
+  },
+  "story": {
+    "rank": 205,
+    "cefr": "A2"
+  },
+  "video": {
+    "rank": 206,
+    "cefr": "A2"
+  },
+  "yeah": {
+    "rank": 207,
+    "cefr": "A2"
+  },
+  "among": {
+    "rank": 208,
+    "cefr": "A2"
+  },
+  "class": {
+    "rank": 209,
+    "cefr": "A2"
+  },
+  "else": {
+    "rank": 210,
+    "cefr": "A2"
+  },
+  "girl": {
+    "rank": 211,
+    "cefr": "A2"
+  },
+  "nice": {
+    "rank": 212,
+    "cefr": "A2"
+  },
+  "wrong": {
+    "rank": 213,
+    "cefr": "A2"
+  },
+  "act": {
+    "rank": 214,
+    "cefr": "A2"
+  },
+  "ago": {
+    "rank": 215,
+    "cefr": "A2"
+  },
+  "close": {
+    "rank": 216,
+    "cefr": "A2"
+  },
+  "matter": {
+    "rank": 217,
+    "cefr": "A2"
+  },
+  "office": {
+    "rank": 218,
+    "cefr": "A2"
+  },
+  "political": {
+    "rank": 219,
+    "cefr": "A2"
+  },
+  "question": {
+    "rank": 220,
+    "cefr": "A2"
+  },
+  "room": {
+    "rank": 221,
+    "cefr": "A2"
+  },
+  "single": {
+    "rank": 222,
+    "cefr": "A2"
+  },
+  "wait": {
+    "rank": 223,
+    "cefr": "A2"
+  },
+  "along": {
+    "rank": 224,
+    "cefr": "A2"
+  },
+  "although": {
+    "rank": 225,
+    "cefr": "A2"
+  },
+  "cause": {
+    "rank": 226,
+    "cefr": "A2"
+  },
+  "remember": {
+    "rank": 227,
+    "cefr": "A2"
+  },
+  "ask": {
+    "rank": 228,
+    "cefr": "A2"
+  },
+  "example": {
+    "rank": 229,
+    "cefr": "A2"
+  },
+  "form": {
+    "rank": 230,
+    "cefr": "A2"
+  },
+  "pay": {
+    "rank": 231,
+    "cefr": "A2"
+  },
+  "post": {
+    "rank": 232,
+    "cefr": "A2"
+  },
+  "research": {
+    "rank": 233,
+    "cefr": "A2"
+  },
+  "understand": {
+    "rank": 234,
+    "cefr": "A2"
+  },
+  "university": {
+    "rank": 235,
+    "cefr": "A2"
+  },
+  "accord": {
+    "rank": 236,
+    "cefr": "A2"
+  },
+  "due": {
+    "rank": 237,
+    "cefr": "A2"
+  },
+  "either": {
+    "rank": 238,
+    "cefr": "A2"
+  },
+  "hit": {
+    "rank": 239,
+    "cefr": "A2"
+  },
+  "idea": {
+    "rank": 240,
+    "cefr": "A2"
+  },
+  "million": {
+    "rank": 241,
+    "cefr": "A2"
+  },
+  "month": {
+    "rank": 242,
+    "cefr": "A2"
+  },
+  "need": {
+    "rank": 243,
+    "cefr": "A2"
+  },
+  "past": {
+    "rank": 244,
+    "cefr": "A2"
+  },
+  "pretty": {
+    "rank": 245,
+    "cefr": "A2"
+  },
+  "probably": {
+    "rank": 246,
+    "cefr": "A2"
+  },
+  "rather": {
+    "rank": 247,
+    "cefr": "A2"
+  },
+  "soon": {
+    "rank": 248,
+    "cefr": "A2"
+  },
+  "turn": {
+    "rank": 249,
+    "cefr": "A2"
+  },
+  "whether": {
+    "rank": 250,
+    "cefr": "A2"
+  },
+  "win": {
+    "rank": 251,
+    "cefr": "A2"
+  },
+  "age": {
+    "rank": 252,
+    "cefr": "A2"
+  },
+  "anyone": {
+    "rank": 253,
+    "cefr": "A2"
+  },
+  "community": {
+    "rank": 254,
+    "cefr": "A2"
+  },
+  "development": {
+    "rank": 255,
+    "cefr": "A2"
+  },
+  "further": {
+    "rank": 256,
+    "cefr": "A2"
+  },
+  "future": {
+    "rank": 257,
+    "cefr": "A2"
+  },
+  "heart": {
+    "rank": 258,
+    "cefr": "A2"
+  },
+  "light": {
+    "rank": 259,
+    "cefr": "A2"
+  },
+  "major": {
+    "rank": 260,
+    "cefr": "A2"
+  },
+  "minute": {
+    "rank": 261,
+    "cefr": "A2"
+  },
+  "morning": {
+    "rank": 262,
+    "cefr": "A2"
+  },
+  "north": {
+    "rank": 263,
+    "cefr": "A2"
+  },
+  "action": {
+    "rank": 264,
+    "cefr": "A2"
+  },
+  "father": {
+    "rank": 265,
+    "cefr": "A2"
+  },
+  "low": {
+    "rank": 266,
+    "cefr": "A2"
+  },
+  "move": {
+    "rank": 267,
+    "cefr": "A2"
+  },
+  "police": {
+    "rank": 268,
+    "cefr": "A2"
+  },
+  "special": {
+    "rank": 269,
+    "cefr": "A2"
+  },
+  "third": {
+    "rank": 270,
+    "cefr": "A2"
+  },
+  "want": {
+    "rank": 271,
+    "cefr": "A2"
+  },
+  "happy": {
+    "rank": 272,
+    "cefr": "A2"
+  },
+  "reason": {
+    "rank": 273,
+    "cefr": "A2"
+  },
+  "red": {
+    "rank": 274,
+    "cefr": "A2"
+  },
+  "report": {
+    "rank": 275,
+    "cefr": "A2"
+  },
+  "short": {
+    "rank": 276,
+    "cefr": "A2"
+  },
+  "sometimes": {
+    "rank": 277,
+    "cefr": "A2"
+  },
+  "son": {
+    "rank": 278,
+    "cefr": "A2"
+  },
+  "stay": {
+    "rank": 279,
+    "cefr": "A2"
+  },
+  "watch": {
+    "rank": 280,
+    "cefr": "A2"
+  },
+  "bite": {
+    "rank": 281,
+    "cefr": "A2"
+  },
+  "education": {
+    "rank": 282,
+    "cefr": "A2"
+  },
+  "land": {
+    "rank": 283,
+    "cefr": "A2"
+  },
+  "myself": {
+    "rank": 284,
+    "cefr": "A2"
+  },
+  "deal": {
+    "rank": 285,
+    "cefr": "A2"
+  },
+  "experience": {
+    "rank": 286,
+    "cefr": "A2"
+  },
+  "final": {
+    "rank": 287,
+    "cefr": "A2"
+  },
+  "list": {
+    "rank": 288,
+    "cefr": "A2"
+  },
+  "market": {
+    "rank": 289,
+    "cefr": "A2"
+  },
+  "meet": {
+    "rank": 290,
+    "cefr": "A2"
+  },
+  "non": {
+    "rank": 291,
+    "cefr": "A2"
+  },
+  "six": {
+    "rank": 292,
+    "cefr": "A2"
+  },
+  "study": {
+    "rank": 293,
+    "cefr": "A2"
+  },
+  "type": {
+    "rank": 294,
+    "cefr": "A2"
+  },
+  "word": {
+    "rank": 295,
+    "cefr": "A2"
+  },
+  "build": {
+    "rank": 296,
+    "cefr": "A2"
+  },
+  "check": {
+    "rank": 297,
+    "cefr": "A2"
+  },
+  "fire": {
+    "rank": 298,
+    "cefr": "A2"
+  },
+  "force": {
+    "rank": 299,
+    "cefr": "A2"
+  },
+  "front": {
+    "rank": 300,
+    "cefr": "A2"
+  },
+  "main": {
+    "rank": 301,
+    "cefr": "A2"
+  },
+  "mother": {
+    "rank": 302,
+    "cefr": "A2"
+  },
+  "near": {
+    "rank": 303,
+    "cefr": "A2"
+  },
+  "period": {
+    "rank": 304,
+    "cefr": "A2"
+  },
+  "process": {
+    "rank": 305,
+    "cefr": "A2"
+  },
+  "april": {
+    "rank": 306,
+    "cefr": "A2"
+  },
+  "art": {
+    "rank": 307,
+    "cefr": "A2"
+  },
+  "former": {
+    "rank": 308,
+    "cefr": "A2"
+  },
+  "hear": {
+    "rank": 309,
+    "cefr": "A2"
+  },
+  "plan": {
+    "rank": 310,
+    "cefr": "A2"
+  },
+  "quite": {
+    "rank": 311,
+    "cefr": "A2"
+  },
+  "series": {
+    "rank": 312,
+    "cefr": "A2"
+  },
+  "site": {
+    "rank": 313,
+    "cefr": "A2"
+  },
+  "west": {
+    "rank": 314,
+    "cefr": "A2"
+  },
+  "behind": {
+    "rank": 315,
+    "cefr": "A2"
+  },
+  "bring": {
+    "rank": 316,
+    "cefr": "A2"
+  },
+  "clear": {
+    "rank": 317,
+    "cefr": "A2"
+  },
+  "hold": {
+    "rank": 318,
+    "cefr": "A2"
+  },
+  "outside": {
+    "rank": 319,
+    "cefr": "A2"
+  },
+  "phone": {
+    "rank": 320,
+    "cefr": "A2"
+  },
+  "position": {
+    "rank": 321,
+    "cefr": "A2"
+  },
+  "yourself": {
+    "rank": 322,
+    "cefr": "A2"
+  },
+  "above": {
+    "rank": 323,
+    "cefr": "A2"
+  },
+  "available": {
+    "rank": 324,
+    "cefr": "A2"
+  },
+  "current": {
+    "rank": 325,
+    "cefr": "A2"
+  },
+  "easy": {
+    "rank": 326,
+    "cefr": "A2"
+  },
+  "field": {
+    "rank": 327,
+    "cefr": "A2"
+  },
+  "ready": {
+    "rank": 328,
+    "cefr": "A2"
+  },
+  "security": {
+    "rank": 329,
+    "cefr": "A2"
+  },
+  "song": {
+    "rank": 330,
+    "cefr": "A2"
+  },
+  "sorry": {
+    "rank": 331,
+    "cefr": "A2"
+  },
+  "student": {
+    "rank": 332,
+    "cefr": "A2"
+  },
+  "total": {
+    "rank": 333,
+    "cefr": "A2"
+  },
+  "across": {
+    "rank": 334,
+    "cefr": "A2"
+  },
+  "buy": {
+    "rank": 335,
+    "cefr": "A2"
+  },
+  "common": {
+    "rank": 336,
+    "cefr": "A2"
+  },
+  "english": {
+    "rank": 337,
+    "cefr": "A2"
+  },
+  "himself": {
+    "rank": 338,
+    "cefr": "A2"
+  },
+  "language": {
+    "rank": 339,
+    "cefr": "A2"
+  },
+  "march": {
+    "rank": 340,
+    "cefr": "A2"
+  },
+  "military": {
+    "rank": 341,
+    "cefr": "A2"
+  },
+  "minister": {
+    "rank": 342,
+    "cefr": "A2"
+  },
+  "moment": {
+    "rank": 343,
+    "cefr": "A2"
+  },
+  "player": {
+    "rank": 344,
+    "cefr": "A2"
+  },
+  "present": {
+    "rank": 345,
+    "cefr": "A2"
+  },
+  "return": {
+    "rank": 346,
+    "cefr": "A2"
+  },
+  "term": {
+    "rank": 347,
+    "cefr": "A2"
+  },
+  "town": {
+    "rank": 348,
+    "cefr": "A2"
+  },
+  "church": {
+    "rank": 349,
+    "cefr": "A2"
+  },
+  "department": {
+    "rank": 350,
+    "cefr": "A2"
+  },
+  "fun": {
+    "rank": 351,
+    "cefr": "B1"
+  },
+  "interest": {
+    "rank": 352,
+    "cefr": "B1"
+  },
+  "role": {
+    "rank": 353,
+    "cefr": "B1"
+  },
+  "self": {
+    "rank": 354,
+    "cefr": "B1"
+  },
+  "shall": {
+    "rank": 355,
+    "cefr": "B1"
+  },
+  "similar": {
+    "rank": 356,
+    "cefr": "B1"
+  },
+  "society": {
+    "rank": 357,
+    "cefr": "B1"
+  },
+  "space": {
+    "rank": 358,
+    "cefr": "B1"
+  },
+  "strong": {
+    "rank": 359,
+    "cefr": "B1"
+  },
+  "account": {
+    "rank": 360,
+    "cefr": "B1"
+  },
+  "baby": {
+    "rank": 361,
+    "cefr": "B1"
+  },
+  "british": {
+    "rank": 362,
+    "cefr": "B1"
+  },
+  "chance": {
+    "rank": 363,
+    "cefr": "B1"
+  },
+  "especially": {
+    "rank": 364,
+    "cefr": "B1"
+  },
+  "eye": {
+    "rank": 365,
+    "cefr": "B1"
+  },
+  "issue": {
+    "rank": 366,
+    "cefr": "B1"
+  },
+  "miss": {
+    "rank": 367,
+    "cefr": "B1"
+  },
+  "program": {
+    "rank": 368,
+    "cefr": "B1"
+  },
+  "rest": {
+    "rank": 369,
+    "cefr": "B1"
+  },
+  "result": {
+    "rank": 370,
+    "cefr": "B1"
+  },
+  "view": {
+    "rank": 371,
+    "cefr": "B1"
+  },
+  "board": {
+    "rank": 372,
+    "cefr": "B1"
+  },
+  "certain": {
+    "rank": 373,
+    "cefr": "B1"
+  },
+  "cost": {
+    "rank": 374,
+    "cefr": "B1"
+  },
+  "cut": {
+    "rank": 375,
+    "cefr": "B1"
+  },
+  "energy": {
+    "rank": 376,
+    "cefr": "B1"
+  },
+  "evidence": {
+    "rank": 377,
+    "cefr": "B1"
+  },
+  "fight": {
+    "rank": 378,
+    "cefr": "B1"
+  },
+  "instead": {
+    "rank": 379,
+    "cefr": "B1"
+  },
+  "king": {
+    "rank": 380,
+    "cefr": "B1"
+  },
+  "official": {
+    "rank": 381,
+    "cefr": "B1"
+  },
+  "parent": {
+    "rank": 382,
+    "cefr": "B1"
+  },
+  "personal": {
+    "rank": 383,
+    "cefr": "B1"
+  },
+  "price": {
+    "rank": 384,
+    "cefr": "B1"
+  },
+  "road": {
+    "rank": 385,
+    "cefr": "B1"
+  },
+  "seem": {
+    "rank": 386,
+    "cefr": "B1"
+  },
+  "sense": {
+    "rank": 387,
+    "cefr": "B1"
+  },
+  "street": {
+    "rank": 388,
+    "cefr": "B1"
+  },
+  "summer": {
+    "rank": 389,
+    "cefr": "B1"
+  },
+  "wife": {
+    "rank": 390,
+    "cefr": "B1"
+  },
+  "boy": {
+    "rank": 391,
+    "cefr": "B1"
+  },
+  "dead": {
+    "rank": 392,
+    "cefr": "B1"
+  },
+  "die": {
+    "rank": 393,
+    "cefr": "B1"
+  },
+  "economic": {
+    "rank": 394,
+    "cefr": "B1"
+  },
+  "fine": {
+    "rank": 395,
+    "cefr": "B1"
+  },
+  "lead": {
+    "rank": 396,
+    "cefr": "B1"
+  },
+  "lord": {
+    "rank": 397,
+    "cefr": "B1"
+  },
+  "online": {
+    "rank": 398,
+    "cefr": "B1"
+  },
+  "right": {
+    "rank": 399,
+    "cefr": "B1"
+  },
+  "test": {
+    "rank": 400,
+    "cefr": "B1"
+  },
+  "council": {
+    "rank": 401,
+    "cefr": "B1"
+  },
+  "european": {
+    "rank": 402,
+    "cefr": "B1"
+  },
+  "june": {
+    "rank": 403,
+    "cefr": "B1"
+  },
+  "kill": {
+    "rank": 404,
+    "cefr": "B1"
+  },
+  "likely": {
+    "rank": 405,
+    "cefr": "B1"
+  },
+  "long": {
+    "rank": 406,
+    "cefr": "B1"
+  },
+  "medium": {
+    "rank": 407,
+    "cefr": "B1"
+  },
+  "middle": {
+    "rank": 408,
+    "cefr": "B1"
+  },
+  "press": {
+    "rank": 409,
+    "cefr": "B1"
+  },
+  "private": {
+    "rank": 410,
+    "cefr": "B1"
+  },
+  "production": {
+    "rank": 411,
+    "cefr": "B1"
+  },
+  "project": {
+    "rank": 412,
+    "cefr": "B1"
+  },
+  "receive": {
+    "rank": 413,
+    "cefr": "B1"
+  },
+  "trade": {
+    "rank": 414,
+    "cefr": "B1"
+  },
+  "upon": {
+    "rank": 415,
+    "cefr": "B1"
+  },
+  "value": {
+    "rank": 416,
+    "cefr": "B1"
+  },
+  "wish": {
+    "rank": 417,
+    "cefr": "B1"
+  },
+  "alone": {
+    "rank": 418,
+    "cefr": "B1"
+  },
+  "beautiful": {
+    "rank": 419,
+    "cefr": "B1"
+  },
+  "date": {
+    "rank": 420,
+    "cefr": "B1"
+  },
+  "finally": {
+    "rank": 421,
+    "cefr": "B1"
+  },
+  "hey": {
+    "rank": 422,
+    "cefr": "B1"
+  },
+  "kid": {
+    "rank": 423,
+    "cefr": "B1"
+  },
+  "policy": {
+    "rank": 424,
+    "cefr": "B1"
+  },
+  "rate": {
+    "rank": 425,
+    "cefr": "B1"
+  },
+  "record": {
+    "rank": 426,
+    "cefr": "B1"
+  },
+  "send": {
+    "rank": 427,
+    "cefr": "B1"
+  },
+  "shoot": {
+    "rank": 428,
+    "cefr": "B1"
+  },
+  "add": {
+    "rank": 429,
+    "cefr": "B1"
+  },
+  "college": {
+    "rank": 430,
+    "cefr": "B1"
+  },
+  "decision": {
+    "rank": 431,
+    "cefr": "B1"
+  },
+  "grind": {
+    "rank": 432,
+    "cefr": "B1"
+  },
+  "guess": {
+    "rank": 433,
+    "cefr": "B1"
+  },
+  "happen": {
+    "rank": 434,
+    "cefr": "B1"
+  },
+  "original": {
+    "rank": 435,
+    "cefr": "B1"
+  },
+  "sex": {
+    "rank": 436,
+    "cefr": "B1"
+  },
+  "situation": {
+    "rank": 437,
+    "cefr": "B1"
+  },
+  "source": {
+    "rank": 438,
+    "cefr": "B1"
+  },
+  "themselves": {
+    "rank": 439,
+    "cefr": "B1"
+  },
+  "answer": {
+    "rank": 440,
+    "cefr": "B1"
+  },
+  "average": {
+    "rank": 441,
+    "cefr": "B1"
+  },
+  "break": {
+    "rank": 442,
+    "cefr": "B1"
+  },
+  "central": {
+    "rank": 443,
+    "cefr": "B1"
+  },
+  "club": {
+    "rank": 444,
+    "cefr": "B1"
+  },
+  "east": {
+    "rank": 445,
+    "cefr": "B1"
+  },
+  "gold": {
+    "rank": 446,
+    "cefr": "B1"
+  },
+  "learn": {
+    "rank": 447,
+    "cefr": "B1"
+  },
+  "usually": {
+    "rank": 448,
+    "cefr": "B1"
+  },
+  "various": {
+    "rank": 449,
+    "cefr": "B1"
+  },
+  "bank": {
+    "rank": 450,
+    "cefr": "B1"
+  },
+  "design": {
+    "rank": 451,
+    "cefr": "B1"
+  },
+  "event": {
+    "rank": 452,
+    "cefr": "B1"
+  },
+  "inside": {
+    "rank": 453,
+    "cefr": "B1"
+  },
+  "picture": {
+    "rank": 454,
+    "cefr": "B1"
+  },
+  "relationship": {
+    "rank": 455,
+    "cefr": "B1"
+  },
+  "share": {
+    "rank": 456,
+    "cefr": "B1"
+  },
+  "train": {
+    "rank": 457,
+    "cefr": "B1"
+  },
+  "union": {
+    "rank": 458,
+    "cefr": "B1"
+  },
+  "amount": {
+    "rank": 459,
+    "cefr": "B1"
+  },
+  "blood": {
+    "rank": 460,
+    "cefr": "B1"
+  },
+  "consider": {
+    "rank": 461,
+    "cefr": "B1"
+  },
+  "cool": {
+    "rank": 462,
+    "cefr": "B1"
+  },
+  "couple": {
+    "rank": 463,
+    "cefr": "B1"
+  },
+  "eat": {
+    "rank": 464,
+    "cefr": "B1"
+  },
+  "film": {
+    "rank": 465,
+    "cefr": "B1"
+  },
+  "foreign": {
+    "rank": 466,
+    "cefr": "B1"
+  },
+  "industry": {
+    "rank": 467,
+    "cefr": "B1"
+  },
+  "involve": {
+    "rank": 468,
+    "cefr": "B1"
+  },
+  "itself": {
+    "rank": 469,
+    "cefr": "B1"
+  },
+  "key": {
+    "rank": 470,
+    "cefr": "B1"
+  },
+  "page": {
+    "rank": 471,
+    "cefr": "B1"
+  },
+  "performance": {
+    "rank": 472,
+    "cefr": "B1"
+  },
+  "round": {
+    "rank": 473,
+    "cefr": "B1"
+  },
+  "science": {
+    "rank": 474,
+    "cefr": "B1"
+  },
+  "sea": {
+    "rank": 475,
+    "cefr": "B1"
+  },
+  "sound": {
+    "rank": 476,
+    "cefr": "B1"
+  },
+  "step": {
+    "rank": 477,
+    "cefr": "B1"
+  },
+  "begin": {
+    "rank": 478,
+    "cefr": "B1"
+  },
+  "brother": {
+    "rank": 479,
+    "cefr": "B1"
+  },
+  "fall": {
+    "rank": 480,
+    "cefr": "B1"
+  },
+  "federal": {
+    "rank": 481,
+    "cefr": "B1"
+  },
+  "model": {
+    "rank": 482,
+    "cefr": "B1"
+  },
+  "natural": {
+    "rank": 483,
+    "cefr": "B1"
+  },
+  "september": {
+    "rank": 484,
+    "cefr": "B1"
+  },
+  "serious": {
+    "rank": 485,
+    "cefr": "B1"
+  },
+  "size": {
+    "rank": 486,
+    "cefr": "B1"
+  },
+  "whatever": {
+    "rank": 487,
+    "cefr": "B1"
+  },
+  "blue": {
+    "rank": 488,
+    "cefr": "B1"
+  },
+  "cannot": {
+    "rank": 489,
+    "cefr": "B1"
+  },
+  "century": {
+    "rank": 490,
+    "cefr": "B1"
+  },
+  "chief": {
+    "rank": 491,
+    "cefr": "B1"
+  },
+  "difficult": {
+    "rank": 492,
+    "cefr": "B1"
+  },
+  "director": {
+    "rank": 493,
+    "cefr": "B1"
+  },
+  "medical": {
+    "rank": 494,
+    "cefr": "B1"
+  },
+  "population": {
+    "rank": 495,
+    "cefr": "B1"
+  },
+  "provide": {
+    "rank": 496,
+    "cefr": "B1"
+  },
+  "range": {
+    "rank": 497,
+    "cefr": "B1"
+  },
+  "region": {
+    "rank": 498,
+    "cefr": "B1"
+  },
+  "tax": {
+    "rank": 499,
+    "cefr": "B1"
+  },
+  "cup": {
+    "rank": 500,
+    "cefr": "B1"
+  },
+  "exactly": {
+    "rank": 501,
+    "cefr": "B1"
+  },
+  "financial": {
+    "rank": 502,
+    "cefr": "B1"
+  },
+  "internet": {
+    "rank": 503,
+    "cefr": "B1"
+  },
+  "july": {
+    "rank": 504,
+    "cefr": "B1"
+  },
+  "life": {
+    "rank": 505,
+    "cefr": "B1"
+  },
+  "movie": {
+    "rank": 506,
+    "cefr": "B1"
+  },
+  "perfect": {
+    "rank": 507,
+    "cefr": "B1"
+  },
+  "poor": {
+    "rank": 508,
+    "cefr": "B1"
+  },
+  "risk": {
+    "rank": 509,
+    "cefr": "B1"
+  },
+  "simple": {
+    "rank": 510,
+    "cefr": "B1"
+  },
+  "stage": {
+    "rank": 511,
+    "cefr": "B1"
+  },
+  "stand": {
+    "rank": 512,
+    "cefr": "B1"
+  },
+  "star": {
+    "rank": 513,
+    "cefr": "B1"
+  },
+  "table": {
+    "rank": 514,
+    "cefr": "B1"
+  },
+  "trust": {
+    "rank": 515,
+    "cefr": "B1"
+  },
+  "whose": {
+    "rank": 516,
+    "cefr": "B1"
+  },
+  "worth": {
+    "rank": 517,
+    "cefr": "B1"
+  },
+  "attention": {
+    "rank": 518,
+    "cefr": "B1"
+  },
+  "capital": {
+    "rank": 519,
+    "cefr": "B1"
+  },
+  "center": {
+    "rank": 520,
+    "cefr": "B1"
+  },
+  "character": {
+    "rank": 521,
+    "cefr": "B1"
+  },
+  "earth": {
+    "rank": 522,
+    "cefr": "B1"
+  },
+  "effect": {
+    "rank": 523,
+    "cefr": "B1"
+  },
+  "figure": {
+    "rank": 524,
+    "cefr": "B1"
+  },
+  "forward": {
+    "rank": 525,
+    "cefr": "B1"
+  },
+  "hot": {
+    "rank": 526,
+    "cefr": "B1"
+  },
+  "park": {
+    "rank": 527,
+    "cefr": "B1"
+  },
+  "quality": {
+    "rank": 528,
+    "cefr": "B1"
+  },
+  "write": {
+    "rank": 529,
+    "cefr": "B1"
+  },
+  "currently": {
+    "rank": 530,
+    "cefr": "B1"
+  },
+  "drive": {
+    "rank": 531,
+    "cefr": "B1"
+  },
+  "fast": {
+    "rank": 532,
+    "cefr": "B1"
+  },
+  "green": {
+    "rank": 533,
+    "cefr": "B1"
+  },
+  "increase": {
+    "rank": 534,
+    "cefr": "B1"
+  },
+  "management": {
+    "rank": 535,
+    "cefr": "B1"
+  },
+  "mine": {
+    "rank": 536,
+    "cefr": "B1"
+  },
+  "okay": {
+    "rank": 537,
+    "cefr": "B1"
+  },
+  "relate": {
+    "rank": 538,
+    "cefr": "B1"
+  },
+  "review": {
+    "rank": 539,
+    "cefr": "B1"
+  },
+  "rule": {
+    "rank": 540,
+    "cefr": "B1"
+  },
+  "save": {
+    "rank": 541,
+    "cefr": "B1"
+  },
+  "section": {
+    "rank": 542,
+    "cefr": "B1"
+  },
+  "choice": {
+    "rank": 543,
+    "cefr": "B1"
+  },
+  "complete": {
+    "rank": 544,
+    "cefr": "B1"
+  },
+  "continue": {
+    "rank": 545,
+    "cefr": "B1"
+  },
+  "create": {
+    "rank": 546,
+    "cefr": "B1"
+  },
+  "decide": {
+    "rank": 547,
+    "cefr": "B1"
+  },
+  "hate": {
+    "rank": 548,
+    "cefr": "B1"
+  },
+  "individual": {
+    "rank": 549,
+    "cefr": "B1"
+  },
+  "league": {
+    "rank": 550,
+    "cefr": "B1"
+  },
+  "legal": {
+    "rank": 551,
+    "cefr": "B1"
+  },
+  "match": {
+    "rank": 552,
+    "cefr": "B1"
+  },
+  "mom": {
+    "rank": 553,
+    "cefr": "B1"
+  },
+  "october": {
+    "rank": 554,
+    "cefr": "B1"
+  },
+  "oil": {
+    "rank": 555,
+    "cefr": "B1"
+  },
+  "particular": {
+    "rank": 556,
+    "cefr": "B1"
+  },
+  "part": {
+    "rank": 557,
+    "cefr": "B1"
+  },
+  "perhaps": {
+    "rank": 558,
+    "cefr": "B1"
+  },
+  "property": {
+    "rank": 559,
+    "cefr": "B1"
+  },
+  "publish": {
+    "rank": 560,
+    "cefr": "B1"
+  },
+  "release": {
+    "rank": 561,
+    "cefr": "B1"
+  },
+  "seven": {
+    "rank": 562,
+    "cefr": "B1"
+  },
+  "stuff": {
+    "rank": 563,
+    "cefr": "B1"
+  },
+  "subject": {
+    "rank": 564,
+    "cefr": "B1"
+  },
+  "technology": {
+    "rank": 565,
+    "cefr": "B1"
+  },
+  "therefore": {
+    "rank": 566,
+    "cefr": "B1"
+  },
+  "towards": {
+    "rank": 567,
+    "cefr": "B1"
+  },
+  "version": {
+    "rank": 568,
+    "cefr": "B1"
+  },
+  "voice": {
+    "rank": 569,
+    "cefr": "B1"
+  },
+  "army": {
+    "rank": 570,
+    "cefr": "B1"
+  },
+  "attack": {
+    "rank": 571,
+    "cefr": "B1"
+  },
+  "football": {
+    "rank": 572,
+    "cefr": "B1"
+  },
+  "january": {
+    "rank": 573,
+    "cefr": "B1"
+  },
+  "nature": {
+    "rank": 574,
+    "cefr": "B1"
+  },
+  "note": {
+    "rank": 575,
+    "cefr": "B1"
+  },
+  "practice": {
+    "rank": 576,
+    "cefr": "B1"
+  },
+  "radio": {
+    "rank": 577,
+    "cefr": "B1"
+  },
+  "respect": {
+    "rank": 578,
+    "cefr": "B1"
+  },
+  "style": {
+    "rank": 579,
+    "cefr": "B1"
+  },
+  "success": {
+    "rank": 580,
+    "cefr": "B1"
+  },
+  "ten": {
+    "rank": 581,
+    "cefr": "B1"
+  },
+  "truth": {
+    "rank": 582,
+    "cefr": "B1"
+  },
+  "vote": {
+    "rank": 583,
+    "cefr": "B1"
+  },
+  "way": {
+    "rank": 584,
+    "cefr": "B1"
+  },
+  "article": {
+    "rank": 585,
+    "cefr": "B1"
+  },
+  "bear": {
+    "rank": 586,
+    "cefr": "B1"
+  },
+  "committee": {
+    "rank": 587,
+    "cefr": "B1"
+  },
+  "culture": {
+    "rank": 588,
+    "cefr": "B1"
+  },
+  "december": {
+    "rank": 589,
+    "cefr": "B1"
+  },
+  "door": {
+    "rank": 590,
+    "cefr": "B1"
+  },
+  "goal": {
+    "rank": 591,
+    "cefr": "B1"
+  },
+  "message": {
+    "rank": 592,
+    "cefr": "B1"
+  },
+  "november": {
+    "rank": 593,
+    "cefr": "B1"
+  },
+  "one": {
+    "rank": 594,
+    "cefr": "B1"
+  },
+  "sign": {
+    "rank": 595,
+    "cefr": "B1"
+  },
+  "staff": {
+    "rank": 596,
+    "cefr": "B1"
+  },
+  "thus": {
+    "rank": 597,
+    "cefr": "B1"
+  },
+  "title": {
+    "rank": 598,
+    "cefr": "B1"
+  },
+  "walk": {
+    "rank": 599,
+    "cefr": "B1"
+  },
+  "access": {
+    "rank": 600,
+    "cefr": "B1"
+  },
+  "allow": {
+    "rank": 601,
+    "cefr": "B1"
+  },
+  "bed": {
+    "rank": 602,
+    "cefr": "B1"
+  },
+  "bill": {
+    "rank": 603,
+    "cefr": "B1"
+  },
+  "centre": {
+    "rank": 604,
+    "cefr": "B1"
+  },
+  "code": {
+    "rank": 605,
+    "cefr": "B1"
+  },
+  "condition": {
+    "rank": 606,
+    "cefr": "B1"
+  },
+  "contact": {
+    "rank": 607,
+    "cefr": "B1"
+  },
+  "cover": {
+    "rank": 608,
+    "cefr": "B1"
+  },
+  "daily": {
+    "rank": 609,
+    "cefr": "B1"
+  },
+  "entire": {
+    "rank": 610,
+    "cefr": "B1"
+  },
+  "growth": {
+    "rank": 611,
+    "cefr": "B1"
+  },
+  "loss": {
+    "rank": 612,
+    "cefr": "B1"
+  },
+  "modern": {
+    "rank": 613,
+    "cefr": "B1"
+  },
+  "necessary": {
+    "rank": 614,
+    "cefr": "B1"
+  },
+  "offer": {
+    "rank": 615,
+    "cefr": "B1"
+  },
+  "peace": {
+    "rank": 616,
+    "cefr": "B1"
+  },
+  "race": {
+    "rank": 617,
+    "cefr": "B1"
+  },
+  "response": {
+    "rank": 618,
+    "cefr": "B1"
+  },
+  "simply": {
+    "rank": 619,
+    "cefr": "B1"
+  },
+  "sleep": {
+    "rank": 620,
+    "cefr": "B1"
+  },
+  "text": {
+    "rank": 621,
+    "cefr": "B1"
+  },
+  "visit": {
+    "rank": 622,
+    "cefr": "B1"
+  },
+  "below": {
+    "rank": 623,
+    "cefr": "B1"
+  },
+  "crazy": {
+    "rank": 624,
+    "cefr": "B1"
+  },
+  "dog": {
+    "rank": 625,
+    "cefr": "B1"
+  },
+  "election": {
+    "rank": 626,
+    "cefr": "B1"
+  },
+  "knowledge": {
+    "rank": 627,
+    "cefr": "B1"
+  },
+  "network": {
+    "rank": 628,
+    "cefr": "B1"
+  },
+  "normal": {
+    "rank": 629,
+    "cefr": "B1"
+  },
+  "officer": {
+    "rank": 630,
+    "cefr": "B1"
+  },
+  "paper": {
+    "rank": 631,
+    "cefr": "B1"
+  },
+  "sir": {
+    "rank": 632,
+    "cefr": "B1"
+  },
+  "specific": {
+    "rank": 633,
+    "cefr": "B1"
+  },
+  "worker": {
+    "rank": 634,
+    "cefr": "B1"
+  },
+  "august": {
+    "rank": 635,
+    "cefr": "B1"
+  },
+  "ball": {
+    "rank": 636,
+    "cefr": "B1"
+  },
+  "cold": {
+    "rank": 637,
+    "cefr": "B1"
+  },
+  "computer": {
+    "rank": 638,
+    "cefr": "B1"
+  },
+  "dark": {
+    "rank": 639,
+    "cefr": "B1"
+  },
+  "daughter": {
+    "rank": 640,
+    "cefr": "B1"
+  },
+  "describe": {
+    "rank": 641,
+    "cefr": "B1"
+  },
+  "enjoy": {
+    "rank": 642,
+    "cefr": "B1"
+  },
+  "forget": {
+    "rank": 643,
+    "cefr": "B1"
+  },
+  "hospital": {
+    "rank": 644,
+    "cefr": "B1"
+  },
+  "island": {
+    "rank": 645,
+    "cefr": "B1"
+  },
+  "marry": {
+    "rank": 646,
+    "cefr": "B1"
+  },
+  "pick": {
+    "rank": 647,
+    "cefr": "B1"
+  },
+  "recent": {
+    "rank": 648,
+    "cefr": "B1"
+  },
+  "require": {
+    "rank": 649,
+    "cefr": "B1"
+  },
+  "river": {
+    "rank": 650,
+    "cefr": "B1"
+  },
+  "speak": {
+    "rank": 651,
+    "cefr": "B1"
+  },
+  "standard": {
+    "rank": 652,
+    "cefr": "B1"
+  },
+  "super": {
+    "rank": 653,
+    "cefr": "B1"
+  },
+  "tomorrow": {
+    "rank": 654,
+    "cefr": "B1"
+  },
+  "western": {
+    "rank": 655,
+    "cefr": "B1"
+  },
+  "cross": {
+    "rank": 656,
+    "cefr": "B1"
+  },
+  "except": {
+    "rank": 657,
+    "cefr": "B1"
+  },
+  "hair": {
+    "rank": 658,
+    "cefr": "B1"
+  },
+  "ice": {
+    "rank": 659,
+    "cefr": "B1"
+  },
+  "income": {
+    "rank": 660,
+    "cefr": "B1"
+  },
+  "listen": {
+    "rank": 661,
+    "cefr": "B1"
+  },
+  "movement": {
+    "rank": 662,
+    "cefr": "B1"
+  },
+  "particularly": {
+    "rank": 663,
+    "cefr": "B1"
+  },
+  "popular": {
+    "rank": 664,
+    "cefr": "B1"
+  },
+  "potential": {
+    "rank": 665,
+    "cefr": "B1"
+  },
+  "pressure": {
+    "rank": 666,
+    "cefr": "B1"
+  },
+  "rock": {
+    "rank": 667,
+    "cefr": "B1"
+  },
+  "safe": {
+    "rank": 668,
+    "cefr": "B1"
+  },
+  "search": {
+    "rank": 669,
+    "cefr": "B1"
+  },
+  "station": {
+    "rank": 670,
+    "cefr": "B1"
+  },
+  "straight": {
+    "rank": 671,
+    "cefr": "B1"
+  },
+  "tonight": {
+    "rank": 672,
+    "cefr": "B1"
+  },
+  "track": {
+    "rank": 673,
+    "cefr": "B1"
+  },
+  "treatment": {
+    "rank": 674,
+    "cefr": "B1"
+  },
+  "weight": {
+    "rank": 675,
+    "cefr": "B1"
+  },
+  "association": {
+    "rank": 676,
+    "cefr": "B1"
+  },
+  "charge": {
+    "rank": 677,
+    "cefr": "B1"
+  },
+  "conference": {
+    "rank": 678,
+    "cefr": "B1"
+  },
+  "develop": {
+    "rank": 679,
+    "cefr": "B1"
+  },
+  "difference": {
+    "rank": 680,
+    "cefr": "B1"
+  },
+  "eight": {
+    "rank": 681,
+    "cefr": "B1"
+  },
+  "establish": {
+    "rank": 682,
+    "cefr": "B1"
+  },
+  "justice": {
+    "rank": 683,
+    "cefr": "B1"
+  },
+  "limit": {
+    "rank": 684,
+    "cefr": "B1"
+  },
+  "pain": {
+    "rank": 685,
+    "cefr": "B1"
+  },
+  "previous": {
+    "rank": 686,
+    "cefr": "B1"
+  },
+  "wall": {
+    "rank": 687,
+    "cefr": "B1"
+  },
+  "welcome": {
+    "rank": 688,
+    "cefr": "B1"
+  },
+  "amaze": {
+    "rank": 689,
+    "cefr": "B1"
+  },
+  "double": {
+    "rank": 690,
+    "cefr": "B1"
+  },
+  "expect": {
+    "rank": 691,
+    "cefr": "B1"
+  },
+  "generally": {
+    "rank": 692,
+    "cefr": "B1"
+  },
+  "link": {
+    "rank": 693,
+    "cefr": "B1"
+  },
+  "quickly": {
+    "rank": 694,
+    "cefr": "B1"
+  },
+  "significant": {
+    "rank": 695,
+    "cefr": "B1"
+  },
+  "speed": {
+    "rank": 696,
+    "cefr": "B1"
+  },
+  "throughout": {
+    "rank": 697,
+    "cefr": "B1"
+  },
+  "via": {
+    "rank": 698,
+    "cefr": "B1"
+  },
+  "addition": {
+    "rank": 699,
+    "cefr": "B1"
+  },
+  "box": {
+    "rank": 700,
+    "cefr": "B1"
+  },
+  "career": {
+    "rank": 701,
+    "cefr": "B1"
+  },
+  "deep": {
+    "rank": 702,
+    "cefr": "B1"
+  },
+  "despite": {
+    "rank": 703,
+    "cefr": "B1"
+  },
+  "etc": {
+    "rank": 704,
+    "cefr": "B1"
+  },
+  "focus": {
+    "rank": 705,
+    "cefr": "B1"
+  },
+  "funny": {
+    "rank": 706,
+    "cefr": "B1"
+  },
+  "great": {
+    "rank": 707,
+    "cefr": "B1"
+  },
+  "image": {
+    "rank": 708,
+    "cefr": "B1"
+  },
+  "immediately": {
+    "rank": 709,
+    "cefr": "B1"
+  },
+  "material": {
+    "rank": 710,
+    "cefr": "B1"
+  },
+  "percent": {
+    "rank": 711,
+    "cefr": "B1"
+  },
+  "spend": {
+    "rank": 712,
+    "cefr": "B1"
+  },
+  "sun": {
+    "rank": 713,
+    "cefr": "B1"
+  },
+  "ahead": {
+    "rank": 714,
+    "cefr": "B1"
+  },
+  "album": {
+    "rank": 715,
+    "cefr": "B1"
+  },
+  "beat": {
+    "rank": 716,
+    "cefr": "B1"
+  },
+  "beyond": {
+    "rank": 717,
+    "cefr": "B1"
+  },
+  "card": {
+    "rank": 718,
+    "cefr": "B1"
+  },
+  "civil": {
+    "rank": 719,
+    "cefr": "B1"
+  },
+  "clearly": {
+    "rank": 720,
+    "cefr": "B1"
+  },
+  "fear": {
+    "rank": 721,
+    "cefr": "B1"
+  },
+  "february": {
+    "rank": 722,
+    "cefr": "B1"
+  },
+  "female": {
+    "rank": 723,
+    "cefr": "B1"
+  },
+  "friday": {
+    "rank": 724,
+    "cefr": "B1"
+  },
+  "global": {
+    "rank": 725,
+    "cefr": "B1"
+  },
+  "holy": {
+    "rank": 726,
+    "cefr": "B1"
+  },
+  "huge": {
+    "rank": 727,
+    "cefr": "B1"
+  },
+  "letter": {
+    "rank": 728,
+    "cefr": "B1"
+  },
+  "operation": {
+    "rank": 729,
+    "cefr": "B1"
+  },
+  "positive": {
+    "rank": 730,
+    "cefr": "B1"
+  },
+  "seriously": {
+    "rank": 731,
+    "cefr": "B1"
+  },
+  "sort": {
+    "rank": 732,
+    "cefr": "B1"
+  },
+  "tour": {
+    "rank": 733,
+    "cefr": "B1"
+  },
+  "ability": {
+    "rank": 734,
+    "cefr": "B1"
+  },
+  "analysis": {
+    "rank": 735,
+    "cefr": "B1"
+  },
+  "brown": {
+    "rank": 736,
+    "cefr": "B1"
+  },
+  "certainly": {
+    "rank": 737,
+    "cefr": "B1"
+  },
+  "completely": {
+    "rank": 738,
+    "cefr": "B1"
+  },
+  "direction": {
+    "rank": 739,
+    "cefr": "B1"
+  },
+  "fair": {
+    "rank": 740,
+    "cefr": "B1"
+  },
+  "foot": {
+    "rank": 741,
+    "cefr": "B1"
+  },
+  "gas": {
+    "rank": 742,
+    "cefr": "B1"
+  },
+  "independent": {
+    "rank": 743,
+    "cefr": "B1"
+  },
+  "majority": {
+    "rank": 744,
+    "cefr": "B1"
+  },
+  "nearly": {
+    "rank": 745,
+    "cefr": "B1"
+  },
+  "physical": {
+    "rank": 746,
+    "cefr": "B1"
+  },
+  "piece": {
+    "rank": 747,
+    "cefr": "B1"
+  },
+  "product": {
+    "rank": 748,
+    "cefr": "B1"
+  },
+  "professional": {
+    "rank": 749,
+    "cefr": "B1"
+  },
+  "recently": {
+    "rank": 750,
+    "cefr": "B1"
+  },
+  "unless": {
+    "rank": 751,
+    "cefr": "B1"
+  },
+  "wow": {
+    "rank": 752,
+    "cefr": "B1"
+  },
+  "approach": {
+    "rank": 753,
+    "cefr": "B1"
+  },
+  "direct": {
+    "rank": 754,
+    "cefr": "B1"
+  },
+  "drop": {
+    "rank": 755,
+    "cefr": "B1"
+  },
+  "hotel": {
+    "rank": 756,
+    "cefr": "B1"
+  },
+  "lack": {
+    "rank": 757,
+    "cefr": "B1"
+  },
+  "lady": {
+    "rank": 758,
+    "cefr": "B1"
+  },
+  "mile": {
+    "rank": 759,
+    "cefr": "B1"
+  },
+  "organization": {
+    "rank": 760,
+    "cefr": "B1"
+  },
+  "sister": {
+    "rank": 761,
+    "cefr": "B1"
+  },
+  "statement": {
+    "rank": 762,
+    "cefr": "B1"
+  },
+  "travel": {
+    "rank": 763,
+    "cefr": "B1"
+  },
+  "anti": {
+    "rank": 764,
+    "cefr": "B1"
+  },
+  "commission": {
+    "rank": 765,
+    "cefr": "B1"
+  },
+  "content": {
+    "rank": 766,
+    "cefr": "B1"
+  },
+  "credit": {
+    "rank": 767,
+    "cefr": "B1"
+  },
+  "disease": {
+    "rank": 768,
+    "cefr": "B1"
+  },
+  "fan": {
+    "rank": 769,
+    "cefr": "B1"
+  },
+  "husband": {
+    "rank": 770,
+    "cefr": "B1"
+  },
+  "reach": {
+    "rank": 771,
+    "cefr": "B1"
+  },
+  "religious": {
+    "rank": 772,
+    "cefr": "B1"
+  },
+  "specie": {
+    "rank": 773,
+    "cefr": "B1"
+  },
+  "stupid": {
+    "rank": 774,
+    "cefr": "B1"
+  },
+  "wide": {
+    "rank": 775,
+    "cefr": "B1"
+  },
+  "active": {
+    "rank": 776,
+    "cefr": "B1"
+  },
+  "announce": {
+    "rank": 777,
+    "cefr": "B1"
+  },
+  "claim": {
+    "rank": 778,
+    "cefr": "B1"
+  },
+  "economy": {
+    "rank": 779,
+    "cefr": "B1"
+  },
+  "flight": {
+    "rank": 780,
+    "cefr": "B1"
+  },
+  "heavy": {
+    "rank": 781,
+    "cefr": "B1"
+  },
+  "hurt": {
+    "rank": 782,
+    "cefr": "B1"
+  },
+  "leader": {
+    "rank": 783,
+    "cefr": "B1"
+  },
+  "pre": {
+    "rank": 784,
+    "cefr": "B1"
+  },
+  "purpose": {
+    "rank": 785,
+    "cefr": "B1"
+  },
+  "secret": {
+    "rank": 786,
+    "cefr": "B1"
+  },
+  "store": {
+    "rank": 787,
+    "cefr": "B1"
+  },
+  "sunday": {
+    "rank": 788,
+    "cefr": "B1"
+  },
+  "unit": {
+    "rank": 789,
+    "cefr": "B1"
+  },
+  "administration": {
+    "rank": 790,
+    "cefr": "B1"
+  },
+  "battle": {
+    "rank": 791,
+    "cefr": "B1"
+  },
+  "choose": {
+    "rank": 792,
+    "cefr": "B1"
+  },
+  "competition": {
+    "rank": 793,
+    "cefr": "B1"
+  },
+  "construction": {
+    "rank": 794,
+    "cefr": "B1"
+  },
+  "contract": {
+    "rank": 795,
+    "cefr": "B1"
+  },
+  "crime": {
+    "rank": 796,
+    "cefr": "B1"
+  },
+  "degree": {
+    "rank": 797,
+    "cefr": "B1"
+  },
+  "join": {
+    "rank": 798,
+    "cefr": "B1"
+  },
+  "judge": {
+    "rank": 799,
+    "cefr": "B1"
+  },
+  "nobody": {
+    "rank": 800,
+    "cefr": "B1"
+  },
+  "none": {
+    "rank": 801,
+    "cefr": "B1"
+  },
+  "regular": {
+    "rank": 802,
+    "cefr": "B1"
+  },
+  "safety": {
+    "rank": 803,
+    "cefr": "B1"
+  },
+  "scene": {
+    "rank": 804,
+    "cefr": "B1"
+  },
+  "successful": {
+    "rank": 805,
+    "cefr": "B1"
+  },
+  "additional": {
+    "rank": 806,
+    "cefr": "B1"
+  },
+  "anymore": {
+    "rank": 807,
+    "cefr": "B1"
+  },
+  "authority": {
+    "rank": 808,
+    "cefr": "B1"
+  },
+  "awesome": {
+    "rank": 809,
+    "cefr": "B1"
+  },
+  "band": {
+    "rank": 810,
+    "cefr": "B1"
+  },
+  "bar": {
+    "rank": 811,
+    "cefr": "B1"
+  },
+  "basic": {
+    "rank": 812,
+    "cefr": "B1"
+  },
+  "campaign": {
+    "rank": 813,
+    "cefr": "B1"
+  },
+  "carry": {
+    "rank": 814,
+    "cefr": "B1"
+  },
+  "christian": {
+    "rank": 815,
+    "cefr": "B1"
+  },
+  "clean": {
+    "rank": 816,
+    "cefr": "B1"
+  },
+  "compare": {
+    "rank": 817,
+    "cefr": "B1"
+  },
+  "dad": {
+    "rank": 818,
+    "cefr": "B1"
+  },
+  "dance": {
+    "rank": 819,
+    "cefr": "B1"
+  },
+  "directly": {
+    "rank": 820,
+    "cefr": "B1"
+  },
+  "drink": {
+    "rank": 821,
+    "cefr": "B1"
+  },
+  "drug": {
+    "rank": 822,
+    "cefr": "B1"
+  },
+  "floor": {
+    "rank": 823,
+    "cefr": "B1"
+  },
+  "gun": {
+    "rank": 824,
+    "cefr": "B1"
+  },
+  "marriage": {
+    "rank": 825,
+    "cefr": "B1"
+  },
+  "master": {
+    "rank": 826,
+    "cefr": "B1"
+  },
+  "nation": {
+    "rank": 827,
+    "cefr": "B1"
+  },
+  "northern": {
+    "rank": 828,
+    "cefr": "B1"
+  },
+  "notice": {
+    "rank": 829,
+    "cefr": "B1"
+  },
+  "opinion": {
+    "rank": 830,
+    "cefr": "B1"
+  },
+  "opportunity": {
+    "rank": 831,
+    "cefr": "B1"
+  },
+  "pass": {
+    "rank": 832,
+    "cefr": "B1"
+  },
+  "photo": {
+    "rank": 833,
+    "cefr": "B1"
+  },
+  "produce": {
+    "rank": 834,
+    "cefr": "B1"
+  },
+  "quick": {
+    "rank": 835,
+    "cefr": "B1"
+  },
+  "ship": {
+    "rank": 836,
+    "cefr": "B1"
+  },
+  "sell": {
+    "rank": 837,
+    "cefr": "B1"
+  },
+  "whom": {
+    "rank": 838,
+    "cefr": "B1"
+  },
+  "activity": {
+    "rank": 839,
+    "cefr": "B1"
+  },
+  "annual": {
+    "rank": 840,
+    "cefr": "B1"
+  },
+  "anyway": {
+    "rank": 841,
+    "cefr": "B1"
+  },
+  "associate": {
+    "rank": 842,
+    "cefr": "B1"
+  },
+  "captain": {
+    "rank": 843,
+    "cefr": "B1"
+  },
+  "collection": {
+    "rank": 844,
+    "cefr": "B1"
+  },
+  "effort": {
+    "rank": 845,
+    "cefr": "B1"
+  },
+  "explain": {
+    "rank": 846,
+    "cefr": "B1"
+  },
+  "finish": {
+    "rank": 847,
+    "cefr": "B1"
+  },
+  "freedom": {
+    "rank": 848,
+    "cefr": "B1"
+  },
+  "grow": {
+    "rank": 849,
+    "cefr": "B1"
+  },
+  "impact": {
+    "rank": 850,
+    "cefr": "B1"
+  },
+  "parliament": {
+    "rank": 851,
+    "cefr": "B1"
+  },
+  "prime": {
+    "rank": 852,
+    "cefr": "B1"
+  },
+  "sale": {
+    "rank": 853,
+    "cefr": "B1"
+  },
+  "absolutely": {
+    "rank": 854,
+    "cefr": "B1"
+  },
+  "agree": {
+    "rank": 855,
+    "cefr": "B1"
+  },
+  "basis": {
+    "rank": 856,
+    "cefr": "B1"
+  },
+  "brain": {
+    "rank": 857,
+    "cefr": "B1"
+  },
+  "doctor": {
+    "rank": 858,
+    "cefr": "B1"
+  },
+  "doubt": {
+    "rank": 859,
+    "cefr": "B1"
+  },
+  "dream": {
+    "rank": 860,
+    "cefr": "B1"
+  },
+  "easily": {
+    "rank": 861,
+    "cefr": "B1"
+  },
+  "fish": {
+    "rank": 862,
+    "cefr": "B1"
+  },
+  "grand": {
+    "rank": 863,
+    "cefr": "B1"
+  },
+  "highly": {
+    "rank": 864,
+    "cefr": "B1"
+  },
+  "luck": {
+    "rank": 865,
+    "cefr": "B1"
+  },
+  "machine": {
+    "rank": 866,
+    "cefr": "B1"
+  },
+  "manager": {
+    "rank": 867,
+    "cefr": "B1"
+  },
+  "mission": {
+    "rank": 868,
+    "cefr": "B1"
+  },
+  "reality": {
+    "rank": 869,
+    "cefr": "B1"
+  },
+  "remain": {
+    "rank": 870,
+    "cefr": "B1"
+  },
+  "rich": {
+    "rank": 871,
+    "cefr": "B1"
+  },
+  "spring": {
+    "rank": 872,
+    "cefr": "B1"
+  },
+  "winter": {
+    "rank": 873,
+    "cefr": "B1"
+  },
+  "address": {
+    "rank": 874,
+    "cefr": "B1"
+  },
+  "african": {
+    "rank": 875,
+    "cefr": "B1"
+  },
+  "agency": {
+    "rank": 876,
+    "cefr": "B1"
+  },
+  "airport": {
+    "rank": 877,
+    "cefr": "B1"
+  },
+  "australian": {
+    "rank": 878,
+    "cefr": "B1"
+  },
+  "author": {
+    "rank": 879,
+    "cefr": "B1"
+  },
+  "avoid": {
+    "rank": 880,
+    "cefr": "B1"
+  },
+  "catch": {
+    "rank": 881,
+    "cefr": "B1"
+  },
+  "coach": {
+    "rank": 882,
+    "cefr": "B1"
+  },
+  "coast": {
+    "rank": 883,
+    "cefr": "B1"
+  },
+  "comment": {
+    "rank": 884,
+    "cefr": "B1"
+  },
+  "commercial": {
+    "rank": 885,
+    "cefr": "B1"
+  },
+  "complex": {
+    "rank": 886,
+    "cefr": "B1"
+  },
+  "county": {
+    "rank": 887,
+    "cefr": "B1"
+  },
+  "damage": {
+    "rank": 888,
+    "cefr": "B1"
+  },
+  "detail": {
+    "rank": 889,
+    "cefr": "B1"
+  },
+  "environment": {
+    "rank": 890,
+    "cefr": "B1"
+  },
+  "everybody": {
+    "rank": 891,
+    "cefr": "B1"
+  },
+  "feature": {
+    "rank": 892,
+    "cefr": "B1"
+  },
+  "glad": {
+    "rank": 893,
+    "cefr": "B1"
+  },
+  "locate": {
+    "rank": 894,
+    "cefr": "B1"
+  },
+  "patient": {
+    "rank": 895,
+    "cefr": "B1"
+  },
+  "plant": {
+    "rank": 896,
+    "cefr": "B1"
+  },
+  "primary": {
+    "rank": 897,
+    "cefr": "B1"
+  },
+  "royal": {
+    "rank": 898,
+    "cefr": "B1"
+  },
+  "secretary": {
+    "rank": 899,
+    "cefr": "B1"
+  },
+  "senior": {
+    "rank": 900,
+    "cefr": "B1"
+  },
+  "sit": {
+    "rank": 901,
+    "cefr": "B2"
+  },
+  "sport": {
+    "rank": 902,
+    "cefr": "B2"
+  },
+  "status": {
+    "rank": 903,
+    "cefr": "B2"
+  },
+  "stock": {
+    "rank": 904,
+    "cefr": "B2"
+  },
+  "structure": {
+    "rank": 905,
+    "cefr": "B2"
+  },
+  "traditional": {
+    "rank": 906,
+    "cefr": "B2"
+  },
+  "violence": {
+    "rank": 907,
+    "cefr": "B2"
+  },
+  "advice": {
+    "rank": 908,
+    "cefr": "B2"
+  },
+  "agreement": {
+    "rank": 909,
+    "cefr": "B2"
+  },
+  "animal": {
+    "rank": 910,
+    "cefr": "B2"
+  },
+  "beach": {
+    "rank": 911,
+    "cefr": "B2"
+  },
+  "cancer": {
+    "rank": 912,
+    "cefr": "B2"
+  },
+  "extra": {
+    "rank": 913,
+    "cefr": "B2"
+  },
+  "investment": {
+    "rank": 914,
+    "cefr": "B2"
+  },
+  "male": {
+    "rank": 915,
+    "cefr": "B2"
+  },
+  "politics": {
+    "rank": 916,
+    "cefr": "B2"
+  },
+  "protect": {
+    "rank": 917,
+    "cefr": "B2"
+  },
+  "resource": {
+    "rank": 918,
+    "cefr": "B2"
+  },
+  "skin": {
+    "rank": 919,
+    "cefr": "B2"
+  },
+  "sweet": {
+    "rank": 920,
+    "cefr": "B2"
+  },
+  "teacher": {
+    "rank": 921,
+    "cefr": "B2"
+  },
+  "touch": {
+    "rank": 922,
+    "cefr": "B2"
+  },
+  "trip": {
+    "rank": 923,
+    "cefr": "B2"
+  },
+  "village": {
+    "rank": 924,
+    "cefr": "B2"
+  },
+  "weather": {
+    "rank": 925,
+    "cefr": "B2"
+  },
+  "wonder": {
+    "rank": 926,
+    "cefr": "B2"
+  },
+  "yesterday": {
+    "rank": 927,
+    "cefr": "B2"
+  },
+  "accept": {
+    "rank": 928,
+    "cefr": "B2"
+  },
+  "appear": {
+    "rank": 929,
+    "cefr": "B2"
+  },
+  "click": {
+    "rank": 930,
+    "cefr": "B2"
+  },
+  "color": {
+    "rank": 931,
+    "cefr": "B2"
+  },
+  "congress": {
+    "rank": 932,
+    "cefr": "B2"
+  },
+  "district": {
+    "rank": 933,
+    "cefr": "B2"
+  },
+  "even": {
+    "rank": 934,
+    "cefr": "B2"
+  },
+  "eventually": {
+    "rank": 935,
+    "cefr": "B2"
+  },
+  "exchange": {
+    "rank": 936,
+    "cefr": "B2"
+  },
+  "famous": {
+    "rank": 937,
+    "cefr": "B2"
+  },
+  "favorite": {
+    "rank": 938,
+    "cefr": "B2"
+  },
+  "imagine": {
+    "rank": 939,
+    "cefr": "B2"
+  },
+  "mrs": {
+    "rank": 940,
+    "cefr": "B2"
+  },
+  "nine": {
+    "rank": 941,
+    "cefr": "B2"
+  },
+  "nor": {
+    "rank": 942,
+    "cefr": "B2"
+  },
+  "otherwise": {
+    "rank": 943,
+    "cefr": "B2"
+  },
+  "overall": {
+    "rank": 944,
+    "cefr": "B2"
+  },
+  "professor": {
+    "rank": 945,
+    "cefr": "B2"
+  },
+  "queen": {
+    "rank": 946,
+    "cefr": "B2"
+  },
+  "responsible": {
+    "rank": 947,
+    "cefr": "B2"
+  },
+  "saturday": {
+    "rank": 948,
+    "cefr": "B2"
+  },
+  "sick": {
+    "rank": 949,
+    "cefr": "B2"
+  },
+  "suppose": {
+    "rank": 950,
+    "cefr": "B2"
+  },
+  "surface": {
+    "rank": 951,
+    "cefr": "B2"
+  },
+  "theory": {
+    "rank": 952,
+    "cefr": "B2"
+  },
+  "wear": {
+    "rank": 953,
+    "cefr": "B2"
+  },
+  "aircraft": {
+    "rank": 954,
+    "cefr": "B2"
+  },
+  "enter": {
+    "rank": 955,
+    "cefr": "B2"
+  },
+  "faith": {
+    "rank": 956,
+    "cefr": "B2"
+  },
+  "fit": {
+    "rank": 957,
+    "cefr": "B2"
+  },
+  "fully": {
+    "rank": 958,
+    "cefr": "B2"
+  },
+  "labour": {
+    "rank": 959,
+    "cefr": "B2"
+  },
+  "location": {
+    "rank": 960,
+    "cefr": "B2"
+  },
+  "mass": {
+    "rank": 961,
+    "cefr": "B2"
+  },
+  "plus": {
+    "rank": 962,
+    "cefr": "B2"
+  },
+  "scale": {
+    "rank": 963,
+    "cefr": "B2"
+  },
+  "separate": {
+    "rank": 964,
+    "cefr": "B2"
+  },
+  "sexual": {
+    "rank": 965,
+    "cefr": "B2"
+  },
+  "spirit": {
+    "rank": 966,
+    "cefr": "B2"
+  },
+  "television": {
+    "rank": 967,
+    "cefr": "B2"
+  },
+  "till": {
+    "rank": 968,
+    "cefr": "B2"
+  },
+  "weekend": {
+    "rank": 969,
+    "cefr": "B2"
+  },
+  "wind": {
+    "rank": 970,
+    "cefr": "B2"
+  },
+  "attempt": {
+    "rank": 971,
+    "cefr": "B2"
+  },
+  "cash": {
+    "rank": 972,
+    "cefr": "B2"
+  },
+  "challenge": {
+    "rank": 973,
+    "cefr": "B2"
+  },
+  "cultural": {
+    "rank": 974,
+    "cefr": "B2"
+  },
+  "defense": {
+    "rank": 975,
+    "cefr": "B2"
+  },
+  "demand": {
+    "rank": 976,
+    "cefr": "B2"
+  },
+  "effective": {
+    "rank": 977,
+    "cefr": "B2"
+  },
+  "gay": {
+    "rank": 978,
+    "cefr": "B2"
+  },
+  "hall": {
+    "rank": 979,
+    "cefr": "B2"
+  },
+  "heat": {
+    "rank": 980,
+    "cefr": "B2"
+  },
+  "indeed": {
+    "rank": 981,
+    "cefr": "B2"
+  },
+  "mention": {
+    "rank": 982,
+    "cefr": "B2"
+  },
+  "raise": {
+    "rank": 983,
+    "cefr": "B2"
+  },
+  "slow": {
+    "rank": 984,
+    "cefr": "B2"
+  },
+  "soul": {
+    "rank": 985,
+    "cefr": "B2"
+  },
+  "spot": {
+    "rank": 986,
+    "cefr": "B2"
+  },
+  "supply": {
+    "rank": 987,
+    "cefr": "B2"
+  },
+  "trial": {
+    "rank": 988,
+    "cefr": "B2"
+  },
+  "actual": {
+    "rank": 989,
+    "cefr": "B2"
+  },
+  "bus": {
+    "rank": 990,
+    "cefr": "B2"
+  },
+  "christmas": {
+    "rank": 991,
+    "cefr": "B2"
+  },
+  "definitely": {
+    "rank": 992,
+    "cefr": "B2"
+  },
+  "division": {
+    "rank": 993,
+    "cefr": "B2"
+  },
+  "executive": {
+    "rank": 994,
+    "cefr": "B2"
+  },
+  "fat": {
+    "rank": 995,
+    "cefr": "B2"
+  },
+  "glass": {
+    "rank": 996,
+    "cefr": "B2"
+  },
+  "insurance": {
+    "rank": 997,
+    "cefr": "B2"
+  },
+  "interview": {
+    "rank": 998,
+    "cefr": "B2"
+  },
+  "mouth": {
+    "rank": 999,
+    "cefr": "B2"
+  },
+  "multiple": {
+    "rank": 1000,
+    "cefr": "B2"
+  },
+  "powerful": {
+    "rank": 1001,
+    "cefr": "B2"
+  },
+  "pro": {
+    "rank": 1002,
+    "cefr": "B2"
+  },
+  "serve": {
+    "rank": 1003,
+    "cefr": "B2"
+  },
+  "solution": {
+    "rank": 1004,
+    "cefr": "B2"
+  },
+  "target": {
+    "rank": 1005,
+    "cefr": "B2"
+  },
+  "tree": {
+    "rank": 1006,
+    "cefr": "B2"
+  },
+  "window": {
+    "rank": 1007,
+    "cefr": "B2"
+  },
+  "worry": {
+    "rank": 1008,
+    "cefr": "B2"
+  },
+  "arm": {
+    "rank": 1009,
+    "cefr": "B2"
+  },
+  "block": {
+    "rank": 1010,
+    "cefr": "B2"
+  },
+  "coffee": {
+    "rank": 1011,
+    "cefr": "B2"
+  },
+  "concern": {
+    "rank": 1012,
+    "cefr": "B2"
+  },
+  "count": {
+    "rank": 1013,
+    "cefr": "B2"
+  },
+  "critical": {
+    "rank": 1014,
+    "cefr": "B2"
+  },
+  "distance": {
+    "rank": 1015,
+    "cefr": "B2"
+  },
+  "engine": {
+    "rank": 1016,
+    "cefr": "B2"
+  },
+  "episode": {
+    "rank": 1017,
+    "cefr": "B2"
+  },
+  "memory": {
+    "rank": 1018,
+    "cefr": "B2"
+  },
+  "method": {
+    "rank": 1019,
+    "cefr": "B2"
+  },
+  "murder": {
+    "rank": 1020,
+    "cefr": "B2"
+  },
+  "previously": {
+    "rank": 1021,
+    "cefr": "B2"
+  },
+  "protection": {
+    "rank": 1022,
+    "cefr": "B2"
+  },
+  "rise": {
+    "rank": 1023,
+    "cefr": "B2"
+  },
+  "southern": {
+    "rank": 1024,
+    "cefr": "B2"
+  },
+  "square": {
+    "rank": 1025,
+    "cefr": "B2"
+  },
+  "bottom": {
+    "rank": 1026,
+    "cefr": "B2"
+  },
+  "budget": {
+    "rank": 1027,
+    "cefr": "B2"
+  },
+  "cell": {
+    "rank": 1028,
+    "cefr": "B2"
+  },
+  "digital": {
+    "rank": 1029,
+    "cefr": "B2"
+  },
+  "dude": {
+    "rank": 1030,
+    "cefr": "B2"
+  },
+  "fail": {
+    "rank": 1031,
+    "cefr": "B2"
+  },
+  "fourth": {
+    "rank": 1032,
+    "cefr": "B2"
+  },
+  "fresh": {
+    "rank": 1033,
+    "cefr": "B2"
+  },
+  "generation": {
+    "rank": 1034,
+    "cefr": "B2"
+  },
+  "influence": {
+    "rank": 1035,
+    "cefr": "B2"
+  },
+  "lake": {
+    "rank": 1036,
+    "cefr": "B2"
+  },
+  "lie": {
+    "rank": 1037,
+    "cefr": "B2"
+  },
+  "partner": {
+    "rank": 1038,
+    "cefr": "B2"
+  },
+  "reference": {
+    "rank": 1039,
+    "cefr": "B2"
+  },
+  "software": {
+    "rank": 1040,
+    "cefr": "B2"
+  },
+  "spanish": {
+    "rank": 1041,
+    "cefr": "B2"
+  },
+  "traffic": {
+    "rank": 1042,
+    "cefr": "B2"
+  },
+  "twice": {
+    "rank": 1043,
+    "cefr": "B2"
+  },
+  "user": {
+    "rank": 1044,
+    "cefr": "B2"
+  },
+  "weird": {
+    "rank": 1045,
+    "cefr": "B2"
+  },
+  "youth": {
+    "rank": 1046,
+    "cefr": "B2"
+  },
+  "camera": {
+    "rank": 1047,
+    "cefr": "B2"
+  },
+  "cent": {
+    "rank": 1048,
+    "cefr": "B2"
+  },
+  "draw": {
+    "rank": 1049,
+    "cefr": "B2"
+  },
+  "equipment": {
+    "rank": 1050,
+    "cefr": "B2"
+  },
+  "impossible": {
+    "rank": 1051,
+    "cefr": "B2"
+  },
+  "map": {
+    "rank": 1052,
+    "cefr": "B2"
+  },
+  "mental": {
+    "rank": 1053,
+    "cefr": "B2"
+  },
+  "mid": {
+    "rank": 1054,
+    "cefr": "B2"
+  },
+  "mobile": {
+    "rank": 1055,
+    "cefr": "B2"
+  },
+  "neither": {
+    "rank": 1056,
+    "cefr": "B2"
+  },
+  "perform": {
+    "rank": 1057,
+    "cefr": "B2"
+  },
+  "pop": {
+    "rank": 1058,
+    "cefr": "B2"
+  },
+  "port": {
+    "rank": 1059,
+    "cefr": "B2"
+  },
+  "presence": {
+    "rank": 1060,
+    "cefr": "B2"
+  },
+  "prior": {
+    "rank": 1061,
+    "cefr": "B2"
+  },
+  "prison": {
+    "rank": 1062,
+    "cefr": "B2"
+  },
+  "profile": {
+    "rank": 1063,
+    "cefr": "B2"
+  },
+  "progress": {
+    "rank": 1064,
+    "cefr": "B2"
+  },
+  "realize": {
+    "rank": 1065,
+    "cefr": "B2"
+  },
+  "regional": {
+    "rank": 1066,
+    "cefr": "B2"
+  },
+  "religion": {
+    "rank": 1067,
+    "cefr": "B2"
+  },
+  "screen": {
+    "rank": 1068,
+    "cefr": "B2"
+  },
+  "shop": {
+    "rank": 1069,
+    "cefr": "B2"
+  },
+  "somebody": {
+    "rank": 1070,
+    "cefr": "B2"
+  },
+  "speech": {
+    "rank": 1071,
+    "cefr": "B2"
+  },
+  "spread": {
+    "rank": 1072,
+    "cefr": "B2"
+  },
+  "throw": {
+    "rank": 1073,
+    "cefr": "B2"
+  },
+  "arrive": {
+    "rank": 1074,
+    "cefr": "B2"
+  },
+  "aware": {
+    "rank": 1075,
+    "cefr": "B2"
+  },
+  "birth": {
+    "rank": 1076,
+    "cefr": "B2"
+  },
+  "brand": {
+    "rank": 1077,
+    "cefr": "B2"
+  },
+  "camp": {
+    "rank": 1078,
+    "cefr": "B2"
+  },
+  "channel": {
+    "rank": 1079,
+    "cefr": "B2"
+  },
+  "eastern": {
+    "rank": 1080,
+    "cefr": "B2"
+  },
+  "function": {
+    "rank": 1081,
+    "cefr": "B2"
+  },
+  "gain": {
+    "rank": 1082,
+    "cefr": "B2"
+  },
+  "negative": {
+    "rank": 1083,
+    "cefr": "B2"
+  },
+  "prevent": {
+    "rank": 1084,
+    "cefr": "B2"
+  },
+  "remove": {
+    "rank": 1085,
+    "cefr": "B2"
+  },
+  "ride": {
+    "rank": 1086,
+    "cefr": "B2"
+  },
+  "ring": {
+    "rank": 1087,
+    "cefr": "B2"
+  },
+  "score": {
+    "rank": 1088,
+    "cefr": "B2"
+  },
+  "seat": {
+    "rank": 1089,
+    "cefr": "B2"
+  },
+  "shut": {
+    "rank": 1090,
+    "cefr": "B2"
+  },
+  "van": {
+    "rank": 1091,
+    "cefr": "B2"
+  },
+  "web": {
+    "rank": 1092,
+    "cefr": "B2"
+  },
+  "wild": {
+    "rank": 1093,
+    "cefr": "B2"
+  },
+  "advantage": {
+    "rank": 1094,
+    "cefr": "B2"
+  },
+  "aid": {
+    "rank": 1095,
+    "cefr": "B2"
+  },
+  "apparently": {
+    "rank": 1096,
+    "cefr": "B2"
+  },
+  "award": {
+    "rank": 1097,
+    "cefr": "B2"
+  },
+  "benefit": {
+    "rank": 1098,
+    "cefr": "B2"
+  },
+  "correct": {
+    "rank": 1099,
+    "cefr": "B2"
+  },
+  "dear": {
+    "rank": 1100,
+    "cefr": "B2"
+  },
+  "discussion": {
+    "rank": 1101,
+    "cefr": "B2"
+  },
+  "exist": {
+    "rank": 1102,
+    "cefr": "B2"
+  },
+  "file": {
+    "rank": 1103,
+    "cefr": "B2"
+  },
+  "foundation": {
+    "rank": 1104,
+    "cefr": "B2"
+  },
+  "fund": {
+    "rank": 1105,
+    "cefr": "B2"
+  },
+  "industrial": {
+    "rank": 1106,
+    "cefr": "B2"
+  },
+  "institute": {
+    "rank": 1107,
+    "cefr": "B2"
+  },
+  "item": {
+    "rank": 1108,
+    "cefr": "B2"
+  },
+  "length": {
+    "rank": 1109,
+    "cefr": "B2"
+  },
+  "monday": {
+    "rank": 1110,
+    "cefr": "B2"
+  },
+  "mostly": {
+    "rank": 1111,
+    "cefr": "B2"
+  },
+  "obviously": {
+    "rank": 1112,
+    "cefr": "B2"
+  },
+  "republic": {
+    "rank": 1113,
+    "cefr": "B2"
+  },
+  "sad": {
+    "rank": 1114,
+    "cefr": "B2"
+  },
+  "skill": {
+    "rank": 1115,
+    "cefr": "B2"
+  },
+  "strength": {
+    "rank": 1116,
+    "cefr": "B2"
+  },
+  "trouble": {
+    "rank": 1117,
+    "cefr": "B2"
+  },
+  "yours": {
+    "rank": 1118,
+    "cefr": "B2"
+  },
+  "application": {
+    "rank": 1119,
+    "cefr": "B2"
+  },
+  "bet": {
+    "rank": 1120,
+    "cefr": "B2"
+  },
+  "command": {
+    "rank": 1121,
+    "cefr": "B2"
+  },
+  "criminal": {
+    "rank": 1122,
+    "cefr": "B2"
+  },
+  "duty": {
+    "rank": 1123,
+    "cefr": "B2"
+  },
+  "element": {
+    "rank": 1124,
+    "cefr": "B2"
+  },
+  "healthy": {
+    "rank": 1125,
+    "cefr": "B2"
+  },
+  "horse": {
+    "rank": 1126,
+    "cefr": "B2"
+  },
+  "manage": {
+    "rank": 1127,
+    "cefr": "B2"
+  },
+  "prepare": {
+    "rank": 1128,
+    "cefr": "B2"
+  },
+  "prince": {
+    "rank": 1129,
+    "cefr": "B2"
+  },
+  "stone": {
+    "rank": 1130,
+    "cefr": "B2"
+  },
+  "totally": {
+    "rank": 1131,
+    "cefr": "B2"
+  },
+  "truly": {
+    "rank": 1132,
+    "cefr": "B2"
+  },
+  "variety": {
+    "rank": 1133,
+    "cefr": "B2"
+  },
+  "weapon": {
+    "rank": 1134,
+    "cefr": "B2"
+  },
+  "apart": {
+    "rank": 1135,
+    "cefr": "B2"
+  },
+  "border": {
+    "rank": 1136,
+    "cefr": "B2"
+  },
+  "cat": {
+    "rank": 1137,
+    "cefr": "B2"
+  },
+  "concept": {
+    "rank": 1138,
+    "cefr": "B2"
+  },
+  "conflict": {
+    "rank": 1139,
+    "cefr": "B2"
+  },
+  "connection": {
+    "rank": 1140,
+    "cefr": "B2"
+  },
+  "customer": {
+    "rank": 1141,
+    "cefr": "B2"
+  },
+  "dangerous": {
+    "rank": 1142,
+    "cefr": "B2"
+  },
+  "democratic": {
+    "rank": 1143,
+    "cefr": "B2"
+  },
+  "distribution": {
+    "rank": 1144,
+    "cefr": "B2"
+  },
+  "dollar": {
+    "rank": 1145,
+    "cefr": "B2"
+  },
+  "evil": {
+    "rank": 1146,
+    "cefr": "B2"
+  },
+  "extremely": {
+    "rank": 1147,
+    "cefr": "B2"
+  },
+  "failure": {
+    "rank": 1148,
+    "cefr": "B2"
+  },
+  "garden": {
+    "rank": 1149,
+    "cefr": "B2"
+  },
+  "guide": {
+    "rank": 1150,
+    "cefr": "B2"
+  },
+  "hill": {
+    "rank": 1151,
+    "cefr": "B2"
+  },
+  "historical": {
+    "rank": 1152,
+    "cefr": "B2"
+  },
+  "improve": {
+    "rank": 1153,
+    "cefr": "B2"
+  },
+  "investigation": {
+    "rank": 1154,
+    "cefr": "B2"
+  },
+  "leadership": {
+    "rank": 1155,
+    "cefr": "B2"
+  },
+  "nuclear": {
+    "rank": 1156,
+    "cefr": "B2"
+  },
+  "option": {
+    "rank": 1157,
+    "cefr": "B2"
+  },
+  "propose": {
+    "rank": 1158,
+    "cefr": "B2"
+  },
+  "pull": {
+    "rank": 1159,
+    "cefr": "B2"
+  },
+  "relation": {
+    "rank": 1160,
+    "cefr": "B2"
+  },
+  "useful": {
+    "rank": 1161,
+    "cefr": "B2"
+  },
+  "volume": {
+    "rank": 1162,
+    "cefr": "B2"
+  },
+  "waste": {
+    "rank": 1163,
+    "cefr": "B2"
+  },
+  "wood": {
+    "rank": 1164,
+    "cefr": "B2"
+  },
+  "adult": {
+    "rank": 1165,
+    "cefr": "B2"
+  },
+  "affair": {
+    "rank": 1166,
+    "cefr": "B2"
+  },
+  "apply": {
+    "rank": 1167,
+    "cefr": "B2"
+  },
+  "background": {
+    "rank": 1168,
+    "cefr": "B2"
+  },
+  "billion": {
+    "rank": 1169,
+    "cefr": "B2"
+  },
+  "copy": {
+    "rank": 1170,
+    "cefr": "B2"
+  },
+  "crew": {
+    "rank": 1171,
+    "cefr": "B2"
+  },
+  "determine": {
+    "rank": 1172,
+    "cefr": "B2"
+  },
+  "dinner": {
+    "rank": 1173,
+    "cefr": "B2"
+  },
+  "farm": {
+    "rank": 1174,
+    "cefr": "B2"
+  },
+  "fly": {
+    "rank": 1175,
+    "cefr": "B2"
+  },
+  "leaf": {
+    "rank": 1176,
+    "cefr": "B2"
+  },
+  "library": {
+    "rank": 1177,
+    "cefr": "B2"
+  },
+  "metal": {
+    "rank": 1178,
+    "cefr": "B2"
+  },
+  "museum": {
+    "rank": 1179,
+    "cefr": "B2"
+  },
+  "prove": {
+    "rank": 1180,
+    "cefr": "B2"
+  },
+  "push": {
+    "rank": 1181,
+    "cefr": "B2"
+  },
+  "responsibility": {
+    "rank": 1182,
+    "cefr": "B2"
+  },
+  "scientific": {
+    "rank": 1183,
+    "cefr": "B2"
+  },
+  "silver": {
+    "rank": 1184,
+    "cefr": "B2"
+  },
+  "soldier": {
+    "rank": 1185,
+    "cefr": "B2"
+  },
+  "thousand": {
+    "rank": 1186,
+    "cefr": "B2"
+  },
+  "transport": {
+    "rank": 1187,
+    "cefr": "B2"
+  },
+  "wine": {
+    "rank": 1188,
+    "cefr": "B2"
+  },
+  "wonderful": {
+    "rank": 1189,
+    "cefr": "B2"
+  },
+  "agent": {
+    "rank": 1190,
+    "cefr": "B2"
+  },
+  "alive": {
+    "rank": 1191,
+    "cefr": "B2"
+  },
+  "artist": {
+    "rank": 1192,
+    "cefr": "B2"
+  },
+  "assembly": {
+    "rank": 1193,
+    "cefr": "B2"
+  },
+  "automatically": {
+    "rank": 1194,
+    "cefr": "B2"
+  },
+  "balance": {
+    "rank": 1195,
+    "cefr": "B2"
+  },
+  "bridge": {
+    "rank": 1196,
+    "cefr": "B2"
+  },
+  "capacity": {
+    "rank": 1197,
+    "cefr": "B2"
+  },
+  "citizen": {
+    "rank": 1198,
+    "cefr": "B2"
+  },
+  "core": {
+    "rank": 1199,
+    "cefr": "B2"
+  },
+  "emergency": {
+    "rank": 1200,
+    "cefr": "B2"
+  },
+  "estate": {
+    "rank": 1201,
+    "cefr": "B2"
+  },
+  "factor": {
+    "rank": 1202,
+    "cefr": "B2"
+  },
+  "fellow": {
+    "rank": 1203,
+    "cefr": "B2"
+  },
+  "firm": {
+    "rank": 1204,
+    "cefr": "B2"
+  },
+  "handle": {
+    "rank": 1205,
+    "cefr": "B2"
+  },
+  "host": {
+    "rank": 1206,
+    "cefr": "B2"
+  },
+  "ill": {
+    "rank": 1207,
+    "cefr": "B2"
+  },
+  "initial": {
+    "rank": 1208,
+    "cefr": "B2"
+  },
+  "lucky": {
+    "rank": 1209,
+    "cefr": "B2"
+  },
+  "net": {
+    "rank": 1210,
+    "cefr": "B2"
+  },
+  "owner": {
+    "rank": 1211,
+    "cefr": "B2"
+  },
+  "proud": {
+    "rank": 1212,
+    "cefr": "B2"
+  },
+  "sector": {
+    "rank": 1213,
+    "cefr": "B2"
+  },
+  "suggest": {
+    "rank": 1214,
+    "cefr": "B2"
+  },
+  "victory": {
+    "rank": 1215,
+    "cefr": "B2"
+  },
+  "wake": {
+    "rank": 1216,
+    "cefr": "B2"
+  },
+  "ancient": {
+    "rank": 1217,
+    "cefr": "B2"
+  },
+  "crisis": {
+    "rank": 1218,
+    "cefr": "B2"
+  },
+  "discover": {
+    "rank": 1219,
+    "cefr": "B2"
+  },
+  "domestic": {
+    "rank": 1220,
+    "cefr": "B2"
+  },
+  "edge": {
+    "rank": 1221,
+    "cefr": "B2"
+  },
+  "employee": {
+    "rank": 1222,
+    "cefr": "B2"
+  },
+  "fashion": {
+    "rank": 1223,
+    "cefr": "B2"
+  },
+  "introduce": {
+    "rank": 1224,
+    "cefr": "B2"
+  },
+  "joint": {
+    "rank": 1225,
+    "cefr": "B2"
+  },
+  "journal": {
+    "rank": 1226,
+    "cefr": "B2"
+  },
+  "labor": {
+    "rank": 1227,
+    "cefr": "B2"
+  },
+  "literally": {
+    "rank": 1228,
+    "cefr": "B2"
+  },
+  "measure": {
+    "rank": 1229,
+    "cefr": "B2"
+  },
+  "mountain": {
+    "rank": 1230,
+    "cefr": "B2"
+  },
+  "path": {
+    "rank": 1231,
+    "cefr": "B2"
+  },
+  "smart": {
+    "rank": 1232,
+    "cefr": "B2"
+  },
+  "somewhere": {
+    "rank": 1233,
+    "cefr": "B2"
+  },
+  "toward": {
+    "rank": 1234,
+    "cefr": "B2"
+  },
+  "unique": {
+    "rank": 1235,
+    "cefr": "B2"
+  },
+  "winner": {
+    "rank": 1236,
+    "cefr": "B2"
+  },
+  "accident": {
+    "rank": 1237,
+    "cefr": "B2"
+  },
+  "boat": {
+    "rank": 1238,
+    "cefr": "B2"
+  },
+  "cast": {
+    "rank": 1239,
+    "cefr": "B2"
+  },
+  "climate": {
+    "rank": 1240,
+    "cefr": "B2"
+  },
+  "context": {
+    "rank": 1241,
+    "cefr": "B2"
+  },
+  "description": {
+    "rank": 1242,
+    "cefr": "B2"
+  },
+  "enemy": {
+    "rank": 1243,
+    "cefr": "B2"
+  },
+  "entirely": {
+    "rank": 1244,
+    "cefr": "B2"
+  },
+  "excellent": {
+    "rank": 1245,
+    "cefr": "B2"
+  },
+  "fifth": {
+    "rank": 1246,
+    "cefr": "B2"
+  },
+  "fix": {
+    "rank": 1247,
+    "cefr": "B2"
+  },
+  "governor": {
+    "rank": 1248,
+    "cefr": "B2"
+  },
+  "hundred": {
+    "rank": 1249,
+    "cefr": "B2"
+  },
+  "intend": {
+    "rank": 1250,
+    "cefr": "B2"
+  },
+  "internal": {
+    "rank": 1251,
+    "cefr": "B2"
+  },
+  "iron": {
+    "rank": 1252,
+    "cefr": "B2"
+  },
+  "like": {
+    "rank": 1253,
+    "cefr": "B2"
+  },
+  "onto": {
+    "rank": 1254,
+    "cefr": "B2"
+  },
+  "operate": {
+    "rank": 1255,
+    "cefr": "B2"
+  },
+  "plane": {
+    "rank": 1256,
+    "cefr": "B2"
+  },
+  "possibly": {
+    "rank": 1257,
+    "cefr": "B2"
+  },
+  "rare": {
+    "rank": 1258,
+    "cefr": "B2"
+  },
+  "smoke": {
+    "rank": 1259,
+    "cefr": "B2"
+  },
+  "strategy": {
+    "rank": 1260,
+    "cefr": "B2"
+  },
+  "taste": {
+    "rank": 1261,
+    "cefr": "B2"
+  },
+  "thought": {
+    "rank": 1262,
+    "cefr": "B2"
+  },
+  "upper": {
+    "rank": 1263,
+    "cefr": "B2"
+  },
+  "afraid": {
+    "rank": 1264,
+    "cefr": "B2"
+  },
+  "bag": {
+    "rank": 1265,
+    "cefr": "B2"
+  },
+  "clothe": {
+    "rank": 1266,
+    "cefr": "B2"
+  },
+  "conversation": {
+    "rank": 1267,
+    "cefr": "B2"
+  },
+  "corner": {
+    "rank": 1268,
+    "cefr": "B2"
+  },
+  "dry": {
+    "rank": 1269,
+    "cefr": "B2"
+  },
+  "equal": {
+    "rank": 1270,
+    "cefr": "B2"
+  },
+  "exercise": {
+    "rank": 1271,
+    "cefr": "B2"
+  },
+  "feeling": {
+    "rank": 1272,
+    "cefr": "B2"
+  },
+  "forever": {
+    "rank": 1273,
+    "cefr": "B2"
+  },
+  "gift": {
+    "rank": 1274,
+    "cefr": "B2"
+  },
+  "guard": {
+    "rank": 1275,
+    "cefr": "B2"
+  },
+  "inc": {
+    "rank": 1276,
+    "cefr": "B2"
+  },
+  "intelligence": {
+    "rank": 1277,
+    "cefr": "B2"
+  },
+  "mad": {
+    "rank": 1278,
+    "cefr": "B2"
+  },
+  "magic": {
+    "rank": 1279,
+    "cefr": "B2"
+  },
+  "ministry": {
+    "rank": 1280,
+    "cefr": "B2"
+  },
+  "moon": {
+    "rank": 1281,
+    "cefr": "B2"
+  },
+  "profit": {
+    "rank": 1282,
+    "cefr": "B2"
+  },
+  "proper": {
+    "rank": 1283,
+    "cefr": "B2"
+  },
+  "reduce": {
+    "rank": 1284,
+    "cefr": "B2"
+  },
+  "select": {
+    "rank": 1285,
+    "cefr": "B2"
+  },
+  "sky": {
+    "rank": 1286,
+    "cefr": "B2"
+  },
+  "slightly": {
+    "rank": 1287,
+    "cefr": "B2"
+  },
+  "stress": {
+    "rank": 1288,
+    "cefr": "B2"
+  },
+  "survey": {
+    "rank": 1289,
+    "cefr": "B2"
+  },
+  "tea": {
+    "rank": 1290,
+    "cefr": "B2"
+  },
+  "technical": {
+    "rank": 1291,
+    "cefr": "B2"
+  },
+  "tough": {
+    "rank": 1292,
+    "cefr": "B2"
+  },
+  "treat": {
+    "rank": 1293,
+    "cefr": "B2"
+  },
+  "twitter": {
+    "rank": 1294,
+    "cefr": "B2"
+  },
+  "warm": {
+    "rank": 1295,
+    "cefr": "B2"
+  },
+  "zone": {
+    "rank": 1296,
+    "cefr": "B2"
+  },
+  "advance": {
+    "rank": 1297,
+    "cefr": "B2"
+  },
+  "afternoon": {
+    "rank": 1298,
+    "cefr": "B2"
+  },
+  "alternative": {
+    "rank": 1299,
+    "cefr": "B2"
+  },
+  "appreciate": {
+    "rank": 1300,
+    "cefr": "B2"
+  },
+  "appropriate": {
+    "rank": 1301,
+    "cefr": "B2"
+  },
+  "beauty": {
+    "rank": 1302,
+    "cefr": "B2"
+  },
+  "circumstance": {
+    "rank": 1303,
+    "cefr": "B2"
+  },
+  "festival": {
+    "rank": 1304,
+    "cefr": "B2"
+  },
+  "flat": {
+    "rank": 1305,
+    "cefr": "B2"
+  },
+  "forest": {
+    "rank": 1306,
+    "cefr": "B2"
+  },
+  "grade": {
+    "rank": 1307,
+    "cefr": "B2"
+  },
+  "hello": {
+    "rank": 1308,
+    "cefr": "B2"
+  },
+  "herself": {
+    "rank": 1309,
+    "cefr": "B2"
+  },
+  "importance": {
+    "rank": 1310,
+    "cefr": "B2"
+  },
+  "lee": {
+    "rank": 1311,
+    "cefr": "B2"
+  },
+  "promise": {
+    "rank": 1312,
+    "cefr": "B2"
+  },
+  "province": {
+    "rank": 1313,
+    "cefr": "B2"
+  },
+  "rain": {
+    "rank": 1314,
+    "cefr": "B2"
+  },
+  "reaction": {
+    "rank": 1315,
+    "cefr": "B2"
+  },
+  "roll": {
+    "rank": 1316,
+    "cefr": "B2"
+  },
+  "shape": {
+    "rank": 1317,
+    "cefr": "B2"
+  },
+  "snow": {
+    "rank": 1318,
+    "cefr": "B2"
+  },
+  "stick": {
+    "rank": 1319,
+    "cefr": "B2"
+  },
+  "terrible": {
+    "rank": 1320,
+    "cefr": "B2"
+  },
+  "territory": {
+    "rank": 1321,
+    "cefr": "B2"
+  },
+  "transfer": {
+    "rank": 1322,
+    "cefr": "B2"
+  },
+  "troop": {
+    "rank": 1323,
+    "cefr": "B2"
+  },
+  "vehicle": {
+    "rank": 1324,
+    "cefr": "B2"
+  },
+  "appeal": {
+    "rank": 1325,
+    "cefr": "B2"
+  },
+  "approximately": {
+    "rank": 1326,
+    "cefr": "B2"
+  },
+  "audience": {
+    "rank": 1327,
+    "cefr": "B2"
+  },
+  "bay": {
+    "rank": 1328,
+    "cefr": "B2"
+  },
+  "bell": {
+    "rank": 1329,
+    "cefr": "B2"
+  },
+  "birthday": {
+    "rank": 1330,
+    "cefr": "B2"
+  },
+  "building": {
+    "rank": 1331,
+    "cefr": "B2"
+  },
+  "busy": {
+    "rank": 1332,
+    "cefr": "B2"
+  },
+  "contain": {
+    "rank": 1333,
+    "cefr": "B2"
+  },
+  "dress": {
+    "rank": 1334,
+    "cefr": "B2"
+  },
+  "edition": {
+    "rank": 1335,
+    "cefr": "B2"
+  },
+  "mail": {
+    "rank": 1336,
+    "cefr": "B2"
+  },
+  "medicine": {
+    "rank": 1337,
+    "cefr": "B2"
+  },
+  "numerous": {
+    "rank": 1338,
+    "cefr": "B2"
+  },
+  "phase": {
+    "rank": 1339,
+    "cefr": "B2"
+  },
+  "quarter": {
+    "rank": 1340,
+    "cefr": "B2"
+  },
+  "route": {
+    "rank": 1341,
+    "cefr": "B2"
+  },
+  "surprise": {
+    "rank": 1342,
+    "cefr": "B2"
+  },
+  "task": {
+    "rank": 1343,
+    "cefr": "B2"
+  },
+  "teach": {
+    "rank": 1344,
+    "cefr": "B2"
+  },
+  "urban": {
+    "rank": 1345,
+    "cefr": "B2"
+  },
+  "valley": {
+    "rank": 1346,
+    "cefr": "B2"
+  },
+  "wed": {
+    "rank": 1347,
+    "cefr": "B2"
+  },
+  "will": {
+    "rank": 1348,
+    "cefr": "B2"
+  },
+  "affect": {
+    "rank": 1349,
+    "cefr": "B2"
+  },
+  "appearance": {
+    "rank": 1350,
+    "cefr": "B2"
+  },
+  "apple": {
+    "rank": 1351,
+    "cefr": "B2"
+  },
+  "chapter": {
+    "rank": 1352,
+    "cefr": "B2"
+  },
+  "communication": {
+    "rank": 1353,
+    "cefr": "B2"
+  },
+  "definition": {
+    "rank": 1354,
+    "cefr": "B2"
+  },
+  "device": {
+    "rank": 1355,
+    "cefr": "B2"
+  },
+  "ensure": {
+    "rank": 1356,
+    "cefr": "B2"
+  },
+  "flow": {
+    "rank": 1357,
+    "cefr": "B2"
+  },
+  "grant": {
+    "rank": 1358,
+    "cefr": "B2"
+  },
+  "honest": {
+    "rank": 1359,
+    "cefr": "B2"
+  },
+  "kick": {
+    "rank": 1360,
+    "cefr": "B2"
+  },
+  "originally": {
+    "rank": 1361,
+    "cefr": "B2"
+  },
+  "pair": {
+    "rank": 1362,
+    "cefr": "B2"
+  },
+  "relatively": {
+    "rank": 1363,
+    "cefr": "B2"
+  },
+  "request": {
+    "rank": 1364,
+    "cefr": "B2"
+  },
+  "revolution": {
+    "rank": 1365,
+    "cefr": "B2"
+  },
+  "vice": {
+    "rank": 1366,
+    "cefr": "B2"
+  },
+  "victim": {
+    "rank": 1367,
+    "cefr": "B2"
+  },
+  "anywhere": {
+    "rank": 1368,
+    "cefr": "B2"
+  },
+  "beer": {
+    "rank": 1369,
+    "cefr": "B2"
+  },
+  "combine": {
+    "rank": 1370,
+    "cefr": "B2"
+  },
+  "confidence": {
+    "rank": 1371,
+    "cefr": "B2"
+  },
+  "corporation": {
+    "rank": 1372,
+    "cefr": "B2"
+  },
+  "debt": {
+    "rank": 1373,
+    "cefr": "B2"
+  },
+  "defence": {
+    "rank": 1374,
+    "cefr": "B2"
+  },
+  "driver": {
+    "rank": 1375,
+    "cefr": "B2"
+  },
+  "email": {
+    "rank": 1376,
+    "cefr": "B2"
+  },
+  "express": {
+    "rank": 1377,
+    "cefr": "B2"
+  },
+  "external": {
+    "rank": 1378,
+    "cefr": "B2"
+  },
+  "fuel": {
+    "rank": 1379,
+    "cefr": "B2"
+  },
+  "hero": {
+    "rank": 1380,
+    "cefr": "B2"
+  },
+  "institution": {
+    "rank": 1381,
+    "cefr": "B2"
+  },
+  "kingdom": {
+    "rank": 1382,
+    "cefr": "B2"
+  },
+  "leg": {
+    "rank": 1383,
+    "cefr": "B2"
+  },
+  "mainly": {
+    "rank": 1384,
+    "cefr": "B2"
+  },
+  "minimum": {
+    "rank": 1385,
+    "cefr": "B2"
+  },
+  "mix": {
+    "rank": 1386,
+    "cefr": "B2"
+  },
+  "native": {
+    "rank": 1387,
+    "cefr": "B2"
+  },
+  "opposition": {
+    "rank": 1388,
+    "cefr": "B2"
+  },
+  "refer": {
+    "rank": 1389,
+    "cefr": "B2"
+  },
+  "restaurant": {
+    "rank": 1390,
+    "cefr": "B2"
+  },
+  "specifically": {
+    "rank": 1391,
+    "cefr": "B2"
+  },
+  "struggle": {
+    "rank": 1392,
+    "cefr": "B2"
+  },
+  "temperature": {
+    "rank": 1393,
+    "cefr": "B2"
+  },
+  "tire": {
+    "rank": 1394,
+    "cefr": "B2"
+  },
+  "update": {
+    "rank": 1395,
+    "cefr": "B2"
+  },
+  "bird": {
+    "rank": 1396,
+    "cefr": "B2"
+  },
+  "chain": {
+    "rank": 1397,
+    "cefr": "B2"
+  },
+  "chair": {
+    "rank": 1398,
+    "cefr": "B2"
+  },
+  "commit": {
+    "rank": 1399,
+    "cefr": "B2"
+  },
+  "crowd": {
+    "rank": 1400,
+    "cefr": "B2"
+  },
+  "define": {
+    "rank": 1401,
+    "cefr": "B2"
+  },
+  "environmental": {
+    "rank": 1402,
+    "cefr": "B2"
+  },
+  "everywhere": {
+    "rank": 1403,
+    "cefr": "B2"
+  },
+  "girlfriend": {
+    "rank": 1404,
+    "cefr": "B2"
+  },
+  "haha": {
+    "rank": 1405,
+    "cefr": "B2"
+  },
+  "heaven": {
+    "rank": 1406,
+    "cefr": "B2"
+  },
+  "identify": {
+    "rank": 1407,
+    "cefr": "B2"
+  },
+  "joke": {
+    "rank": 1408,
+    "cefr": "B2"
+  },
+  "manner": {
+    "rank": 1409,
+    "cefr": "B2"
+  },
+  "ocean": {
+    "rank": 1410,
+    "cefr": "B2"
+  },
+  "pool": {
+    "rank": 1411,
+    "cefr": "B2"
+  },
+  "solid": {
+    "rank": 1412,
+    "cefr": "B2"
+  },
+  "steel": {
+    "rank": 1413,
+    "cefr": "B2"
+  },
+  "supreme": {
+    "rank": 1414,
+    "cefr": "B2"
+  },
+  "weak": {
+    "rank": 1415,
+    "cefr": "B2"
+  },
+  "apartment": {
+    "rank": 1416,
+    "cefr": "B2"
+  },
+  "argument": {
+    "rank": 1417,
+    "cefr": "B2"
+  },
+  "besides": {
+    "rank": 1418,
+    "cefr": "B2"
+  },
+  "chairman": {
+    "rank": 1419,
+    "cefr": "B2"
+  },
+  "connect": {
+    "rank": 1420,
+    "cefr": "B2"
+  },
+  "crown": {
+    "rank": 1421,
+    "cefr": "B2"
+  },
+  "discus": {
+    "rank": 1422,
+    "cefr": "B2"
+  },
+  "display": {
+    "rank": 1423,
+    "cefr": "B2"
+  },
+  "draft": {
+    "rank": 1424,
+    "cefr": "B2"
+  },
+  "engineer": {
+    "rank": 1425,
+    "cefr": "B2"
+  },
+  "escape": {
+    "rank": 1426,
+    "cefr": "B2"
+  },
+  "extend": {
+    "rank": 1427,
+    "cefr": "B2"
+  },
+  "fill": {
+    "rank": 1428,
+    "cefr": "B2"
+  },
+  "friendly": {
+    "rank": 1429,
+    "cefr": "B2"
+  },
+  "identity": {
+    "rank": 1430,
+    "cefr": "B2"
+  },
+  "jewish": {
+    "rank": 1431,
+    "cefr": "B2"
+  },
+  "journey": {
+    "rank": 1432,
+    "cefr": "B2"
+  },
+  "jump": {
+    "rank": 1433,
+    "cefr": "B2"
+  },
+  "laugh": {
+    "rank": 1434,
+    "cefr": "B2"
+  },
+  "launch": {
+    "rank": 1435,
+    "cefr": "B2"
+  },
+  "lovely": {
+    "rank": 1436,
+    "cefr": "B2"
+  },
+  "lunch": {
+    "rank": 1437,
+    "cefr": "B2"
+  },
+  "milk": {
+    "rank": 1438,
+    "cefr": "B2"
+  },
+  "mistake": {
+    "rank": 1439,
+    "cefr": "B2"
+  },
+  "possibility": {
+    "rank": 1440,
+    "cefr": "B2"
+  },
+  "purchase": {
+    "rank": 1441,
+    "cefr": "B2"
+  },
+  "session": {
+    "rank": 1442,
+    "cefr": "B2"
+  },
+  "sub": {
+    "rank": 1443,
+    "cefr": "B2"
+  },
+  "suddenly": {
+    "rank": 1444,
+    "cefr": "B2"
+  },
+  "sugar": {
+    "rank": 1445,
+    "cefr": "B2"
+  },
+  "vision": {
+    "rank": 1446,
+    "cefr": "B2"
+  },
+  "yellow": {
+    "rank": 1447,
+    "cefr": "B2"
+  },
+  "abuse": {
+    "rank": 1448,
+    "cefr": "B2"
+  },
+  "alcohol": {
+    "rank": 1449,
+    "cefr": "B2"
+  },
+  "angry": {
+    "rank": 1450,
+    "cefr": "B2"
+  },
+  "chemical": {
+    "rank": 1451,
+    "cefr": "B2"
+  },
+  "confirm": {
+    "rank": 1452,
+    "cefr": "B2"
+  },
+  "excite": {
+    "rank": 1453,
+    "cefr": "B2"
+  },
+  "expensive": {
+    "rank": 1454,
+    "cefr": "B2"
+  },
+  "extent": {
+    "rank": 1455,
+    "cefr": "B2"
+  },
+  "holiday": {
+    "rank": 1456,
+    "cefr": "B2"
+  },
+  "honestly": {
+    "rank": 1457,
+    "cefr": "B2"
+  },
+  "lawyer": {
+    "rank": 1458,
+    "cefr": "B2"
+  },
+  "magazine": {
+    "rank": 1459,
+    "cefr": "B2"
+  },
+  "maintain": {
+    "rank": 1460,
+    "cefr": "B2"
+  },
+  "massive": {
+    "rank": 1461,
+    "cefr": "B2"
+  },
+  "occur": {
+    "rank": 1462,
+    "cefr": "B2"
+  },
+  "origin": {
+    "rank": 1463,
+    "cefr": "B2"
+  },
+  "planet": {
+    "rank": 1464,
+    "cefr": "B2"
+  },
+  "proof": {
+    "rank": 1465,
+    "cefr": "B2"
+  },
+  "ray": {
+    "rank": 1466,
+    "cefr": "B2"
+  },
+  "regard": {
+    "rank": 1467,
+    "cefr": "B2"
+  },
+  "rural": {
+    "rank": 1468,
+    "cefr": "B2"
+  },
+  "saint": {
+    "rank": 1469,
+    "cefr": "B2"
+  },
+  "seek": {
+    "rank": 1470,
+    "cefr": "B2"
+  },
+  "strange": {
+    "rank": 1471,
+    "cefr": "B2"
+  },
+  "strike": {
+    "rank": 1472,
+    "cefr": "B2"
+  },
+  "twenty": {
+    "rank": 1473,
+    "cefr": "B2"
+  },
+  "unable": {
+    "rank": 1474,
+    "cefr": "B2"
+  },
+  "button": {
+    "rank": 1475,
+    "cefr": "B2"
+  },
+  "collect": {
+    "rank": 1476,
+    "cefr": "B2"
+  },
+  "comfortable": {
+    "rank": 1477,
+    "cefr": "B2"
+  },
+  "debate": {
+    "rank": 1478,
+    "cefr": "B2"
+  },
+  "destroy": {
+    "rank": 1479,
+    "cefr": "B2"
+  },
+  "emotional": {
+    "rank": 1480,
+    "cefr": "B2"
+  },
+  "entry": {
+    "rank": 1481,
+    "cefr": "B2"
+  },
+  "estimate": {
+    "rank": 1482,
+    "cefr": "B2"
+  },
+  "false": {
+    "rank": 1483,
+    "cefr": "B2"
+  },
+  "injury": {
+    "rank": 1484,
+    "cefr": "B2"
+  },
+  "largely": {
+    "rank": 1485,
+    "cefr": "B2"
+  },
+  "literature": {
+    "rank": 1486,
+    "cefr": "B2"
+  },
+  "mode": {
+    "rank": 1487,
+    "cefr": "B2"
+  },
+  "newspaper": {
+    "rank": 1488,
+    "cefr": "B2"
+  },
+  "obvious": {
+    "rank": 1489,
+    "cefr": "B2"
+  },
+  "ourselves": {
+    "rank": 1490,
+    "cefr": "B2"
+  },
+  "quiet": {
+    "rank": 1491,
+    "cefr": "B2"
+  },
+  "reform": {
+    "rank": 1492,
+    "cefr": "B2"
+  },
+  "reveal": {
+    "rank": 1493,
+    "cefr": "B2"
+  },
+  "secure": {
+    "rank": 1494,
+    "cefr": "B2"
+  },
+  "sentence": {
+    "rank": 1495,
+    "cefr": "B2"
+  },
+  "storm": {
+    "rank": 1496,
+    "cefr": "B2"
+  },
+  "app": {
+    "rank": 1497,
+    "cefr": "B2"
+  },
+  "branch": {
+    "rank": 1498,
+    "cefr": "B2"
+  },
+  "capable": {
+    "rank": 1499,
+    "cefr": "B2"
+  },
+  "classic": {
+    "rank": 1500,
+    "cefr": "B2"
+  },
+  "cook": {
+    "rank": 1501,
+    "cefr": "B2"
+  },
+  "download": {
+    "rank": 1502,
+    "cefr": "B2"
+  },
+  "drama": {
+    "rank": 1503,
+    "cefr": "B2"
+  },
+  "elect": {
+    "rank": 1504,
+    "cefr": "B2"
+  },
+  "employment": {
+    "rank": 1505,
+    "cefr": "B2"
+  },
+  "era": {
+    "rank": 1506,
+    "cefr": "B2"
+  },
+  "error": {
+    "rank": 1507,
+    "cefr": "B2"
+  },
+  "feed": {
+    "rank": 1508,
+    "cefr": "B2"
+  },
+  "hole": {
+    "rank": 1509,
+    "cefr": "B2"
+  },
+  "honor": {
+    "rank": 1510,
+    "cefr": "B2"
+  },
+  "hop": {
+    "rank": 1511,
+    "cefr": "B2"
+  },
+  "illegal": {
+    "rank": 1512,
+    "cefr": "B2"
+  },
+  "independence": {
+    "rank": 1513,
+    "cefr": "B2"
+  },
+  "instance": {
+    "rank": 1514,
+    "cefr": "B2"
+  },
+  "kitchen": {
+    "rank": 1515,
+    "cefr": "B2"
+  },
+  "opposite": {
+    "rank": 1516,
+    "cefr": "B2"
+  },
+  "programme": {
+    "rank": 1517,
+    "cefr": "B2"
+  },
+  "represent": {
+    "rank": 1518,
+    "cefr": "B2"
+  },
+  "selection": {
+    "rank": 1519,
+    "cefr": "B2"
+  },
+  "soviet": {
+    "rank": 1520,
+    "cefr": "B2"
+  },
+  "split": {
+    "rank": 1521,
+    "cefr": "B2"
+  },
+  "stadium": {
+    "rank": 1522,
+    "cefr": "B2"
+  },
+  "theme": {
+    "rank": 1523,
+    "cefr": "B2"
+  },
+  "threat": {
+    "rank": 1524,
+    "cefr": "B2"
+  },
+  "writer": {
+    "rank": 1525,
+    "cefr": "B2"
+  },
+  "adopt": {
+    "rank": 1526,
+    "cefr": "B2"
+  },
+  "corporate": {
+    "rank": 1527,
+    "cefr": "B2"
+  },
+  "creation": {
+    "rank": 1528,
+    "cefr": "B2"
+  },
+  "creative": {
+    "rank": 1529,
+    "cefr": "B2"
+  },
+  "danger": {
+    "rank": 1530,
+    "cefr": "B2"
+  },
+  "declare": {
+    "rank": 1531,
+    "cefr": "B2"
+  },
+  "document": {
+    "rank": 1532,
+    "cefr": "B2"
+  },
+  "educational": {
+    "rank": 1533,
+    "cefr": "B2"
+  },
+  "essential": {
+    "rank": 1534,
+    "cefr": "B2"
+  },
+  "existence": {
+    "rank": 1535,
+    "cefr": "B2"
+  },
+  "expression": {
+    "rank": 1536,
+    "cefr": "B2"
+  },
+  "facility": {
+    "rank": 1537,
+    "cefr": "B2"
+  },
+  "gender": {
+    "rank": 1538,
+    "cefr": "B2"
+  },
+  "golden": {
+    "rank": 1539,
+    "cefr": "B2"
+  },
+  "max": {
+    "rank": 1540,
+    "cefr": "B2"
+  },
+  "maximum": {
+    "rank": 1541,
+    "cefr": "B2"
+  },
+  "meat": {
+    "rank": 1542,
+    "cefr": "B2"
+  },
+  "minor": {
+    "rank": 1543,
+    "cefr": "B2"
+  },
+  "personnel": {
+    "rank": 1544,
+    "cefr": "B2"
+  },
+  "plenty": {
+    "rank": 1545,
+    "cefr": "B2"
+  },
+  "relevant": {
+    "rank": 1546,
+    "cefr": "B2"
+  },
+  "reserve": {
+    "rank": 1547,
+    "cefr": "B2"
+  },
+  "resident": {
+    "rank": 1548,
+    "cefr": "B2"
+  },
+  "row": {
+    "rank": 1549,
+    "cefr": "B2"
+  },
+  "shoe": {
+    "rank": 1550,
+    "cefr": "B2"
+  },
+  "signal": {
+    "rank": 1551,
+    "cefr": "B2"
+  },
+  "slowly": {
+    "rank": 1552,
+    "cefr": "B2"
+  },
+  "appoint": {
+    "rank": 1553,
+    "cefr": "B2"
+  },
+  "arrest": {
+    "rank": 1554,
+    "cefr": "B2"
+  },
+  "asian": {
+    "rank": 1555,
+    "cefr": "B2"
+  },
+  "attitude": {
+    "rank": 1556,
+    "cefr": "B2"
+  },
+  "blame": {
+    "rank": 1557,
+    "cefr": "B2"
+  },
+  "conduct": {
+    "rank": 1558,
+    "cefr": "B2"
+  },
+  "constitution": {
+    "rank": 1559,
+    "cefr": "B2"
+  },
+  "desire": {
+    "rank": 1560,
+    "cefr": "B2"
+  },
+  "electric": {
+    "rank": 1561,
+    "cefr": "B2"
+  },
+  "extreme": {
+    "rank": 1562,
+    "cefr": "B2"
+  },
+  "finance": {
+    "rank": 1563,
+    "cefr": "B2"
+  },
+  "index": {
+    "rank": 1564,
+    "cefr": "B2"
+  },
+  "liberal": {
+    "rank": 1565,
+    "cefr": "B2"
+  },
+  "marine": {
+    "rank": 1566,
+    "cefr": "B2"
+  },
+  "mayor": {
+    "rank": 1567,
+    "cefr": "B2"
+  },
+  "neck": {
+    "rank": 1568,
+    "cefr": "B2"
+  },
+  "object": {
+    "rank": 1569,
+    "cefr": "B2"
+  },
+  "pack": {
+    "rank": 1570,
+    "cefr": "B2"
+  },
+  "permanent": {
+    "rank": 1571,
+    "cefr": "B2"
+  },
+  "reply": {
+    "rank": 1572,
+    "cefr": "B2"
+  },
+  "scar": {
+    "rank": 1573,
+    "cefr": "B2"
+  },
+  "senate": {
+    "rank": 1574,
+    "cefr": "B2"
+  },
+  "sing": {
+    "rank": 1575,
+    "cefr": "B2"
+  },
+  "smile": {
+    "rank": 1576,
+    "cefr": "B2"
+  },
+  "soft": {
+    "rank": 1577,
+    "cefr": "B2"
+  },
+  "squad": {
+    "rank": 1578,
+    "cefr": "B2"
+  },
+  "statistic": {
+    "rank": 1579,
+    "cefr": "B2"
+  },
+  "suit": {
+    "rank": 1580,
+    "cefr": "B2"
+  },
+  "tuesday": {
+    "rank": 1581,
+    "cefr": "B2"
+  },
+  "whenever": {
+    "rank": 1582,
+    "cefr": "B2"
+  },
+  "assistant": {
+    "rank": 1583,
+    "cefr": "B2"
+  },
+  "behavior": {
+    "rank": 1584,
+    "cefr": "B2"
+  },
+  "broad": {
+    "rank": 1585,
+    "cefr": "B2"
+  },
+  "catholic": {
+    "rank": 1586,
+    "cefr": "B2"
+  },
+  "combination": {
+    "rank": 1587,
+    "cefr": "B2"
+  },
+  "cry": {
+    "rank": 1588,
+    "cefr": "B2"
+  },
+  "empty": {
+    "rank": 1589,
+    "cefr": "B2"
+  },
+  "familiar": {
+    "rank": 1590,
+    "cefr": "B2"
+  },
+  "fantastic": {
+    "rank": 1591,
+    "cefr": "B2"
+  },
+  "fault": {
+    "rank": 1592,
+    "cefr": "B2"
+  },
+  "fox": {
+    "rank": 1593,
+    "cefr": "B2"
+  },
+  "hang": {
+    "rank": 1594,
+    "cefr": "B2"
+  },
+  "latter": {
+    "rank": 1595,
+    "cefr": "B2"
+  },
+  "normally": {
+    "rank": 1596,
+    "cefr": "B2"
+  },
+  "pleasure": {
+    "rank": 1597,
+    "cefr": "B2"
+  },
+  "properly": {
+    "rank": 1598,
+    "cefr": "B2"
+  },
+  "reasonable": {
+    "rank": 1599,
+    "cefr": "B2"
+  },
+  "replace": {
+    "rank": 1600,
+    "cefr": "B2"
+  },
+  "representative": {
+    "rank": 1601,
+    "cefr": "C1"
+  },
+  "schedule": {
+    "rank": 1602,
+    "cefr": "C1"
+  },
+  "stream": {
+    "rank": 1603,
+    "cefr": "C1"
+  },
+  "thursday": {
+    "rank": 1604,
+    "cefr": "C1"
+  },
+  "zero": {
+    "rank": 1605,
+    "cefr": "C1"
+  },
+  "approve": {
+    "rank": 1606,
+    "cefr": "C1"
+  },
+  "assistance": {
+    "rank": 1607,
+    "cefr": "C1"
+  },
+  "assume": {
+    "rank": 1608,
+    "cefr": "C1"
+  },
+  "blow": {
+    "rank": 1609,
+    "cefr": "C1"
+  },
+  "breakfast": {
+    "rank": 1610,
+    "cefr": "C1"
+  },
+  "careful": {
+    "rank": 1611,
+    "cefr": "C1"
+  },
+  "champion": {
+    "rank": 1612,
+    "cefr": "C1"
+  },
+  "client": {
+    "rank": 1613,
+    "cefr": "C1"
+  },
+  "cycle": {
+    "rank": 1614,
+    "cefr": "C1"
+  },
+  "deliver": {
+    "rank": 1615,
+    "cefr": "C1"
+  },
+  "democracy": {
+    "rank": 1616,
+    "cefr": "C1"
+  },
+  "depend": {
+    "rank": 1617,
+    "cefr": "C1"
+  },
+  "deputy": {
+    "rank": 1618,
+    "cefr": "C1"
+  },
+  "diet": {
+    "rank": 1619,
+    "cefr": "C1"
+  },
+  "don": {
+    "rank": 1620,
+    "cefr": "C1"
+  },
+  "favor": {
+    "rank": 1621,
+    "cefr": "C1"
+  },
+  "florida": {
+    "rank": 1622,
+    "cefr": "C1"
+  },
+  "flower": {
+    "rank": 1623,
+    "cefr": "C1"
+  },
+  "guilty": {
+    "rank": 1624,
+    "cefr": "C1"
+  },
+  "jew": {
+    "rank": 1625,
+    "cefr": "C1"
+  },
+  "kiss": {
+    "rank": 1626,
+    "cefr": "C1"
+  },
+  "organize": {
+    "rank": 1627,
+    "cefr": "C1"
+  },
+  "perspective": {
+    "rank": 1628,
+    "cefr": "C1"
+  },
+  "pilot": {
+    "rank": 1629,
+    "cefr": "C1"
+  },
+  "platform": {
+    "rank": 1630,
+    "cefr": "C1"
+  },
+  "principle": {
+    "rank": 1631,
+    "cefr": "C1"
+  },
+  "pure": {
+    "rank": 1632,
+    "cefr": "C1"
+  },
+  "resolution": {
+    "rank": 1633,
+    "cefr": "C1"
+  },
+  "revenue": {
+    "rank": 1634,
+    "cefr": "C1"
+  },
+  "secondary": {
+    "rank": 1635,
+    "cefr": "C1"
+  },
+  "shirt": {
+    "rank": 1636,
+    "cefr": "C1"
+  },
+  "studio": {
+    "rank": 1637,
+    "cefr": "C1"
+  },
+  "suffer": {
+    "rank": 1638,
+    "cefr": "C1"
+  },
+  "tank": {
+    "rank": 1639,
+    "cefr": "C1"
+  },
+  "tech": {
+    "rank": 1640,
+    "cefr": "C1"
+  },
+  "tool": {
+    "rank": 1641,
+    "cefr": "C1"
+  },
+  "typical": {
+    "rank": 1642,
+    "cefr": "C1"
+  },
+  "unfortunately": {
+    "rank": 1643,
+    "cefr": "C1"
+  },
+  "universe": {
+    "rank": 1644,
+    "cefr": "C1"
+  },
+  "warn": {
+    "rank": 1645,
+    "cefr": "C1"
+  },
+  "wave": {
+    "rank": 1646,
+    "cefr": "C1"
+  },
+  "achieve": {
+    "rank": 1647,
+    "cefr": "C1"
+  },
+  "actor": {
+    "rank": 1648,
+    "cefr": "C1"
+  },
+  "basically": {
+    "rank": 1649,
+    "cefr": "C1"
+  },
+  "bomb": {
+    "rank": 1650,
+    "cefr": "C1"
+  },
+  "bowl": {
+    "rank": 1651,
+    "cefr": "C1"
+  },
+  "candidate": {
+    "rank": 1652,
+    "cefr": "C1"
+  },
+  "chicken": {
+    "rank": 1653,
+    "cefr": "C1"
+  },
+  "dedicate": {
+    "rank": 1654,
+    "cefr": "C1"
+  },
+  "frame": {
+    "rank": 1655,
+    "cefr": "C1"
+  },
+  "immediate": {
+    "rank": 1656,
+    "cefr": "C1"
+  },
+  "lay": {
+    "rank": 1657,
+    "cefr": "C1"
+  },
+  "legislation": {
+    "rank": 1658,
+    "cefr": "C1"
+  },
+  "load": {
+    "rank": 1659,
+    "cefr": "C1"
+  },
+  "obtain": {
+    "rank": 1660,
+    "cefr": "C1"
+  },
+  "prize": {
+    "rank": 1661,
+    "cefr": "C1"
+  },
+  "recognize": {
+    "rank": 1662,
+    "cefr": "C1"
+  },
+  "recovery": {
+    "rank": 1663,
+    "cefr": "C1"
+  },
+  "resistance": {
+    "rank": 1664,
+    "cefr": "C1"
+  },
+  "roman": {
+    "rank": 1665,
+    "cefr": "C1"
+  },
+  "salt": {
+    "rank": 1666,
+    "cefr": "C1"
+  },
+  "severe": {
+    "rank": 1667,
+    "cefr": "C1"
+  },
+  "shift": {
+    "rank": 1668,
+    "cefr": "C1"
+  },
+  "ticket": {
+    "rank": 1669,
+    "cefr": "C1"
+  },
+  "tradition": {
+    "rank": 1670,
+    "cefr": "C1"
+  },
+  "usual": {
+    "rank": 1671,
+    "cefr": "C1"
+  },
+  "wing": {
+    "rank": 1672,
+    "cefr": "C1"
+  },
+  "admit": {
+    "rank": 1673,
+    "cefr": "C1"
+  },
+  "aside": {
+    "rank": 1674,
+    "cefr": "C1"
+  },
+  "bible": {
+    "rank": 1675,
+    "cefr": "C1"
+  },
+  "boyfriend": {
+    "rank": 1676,
+    "cefr": "C1"
+  },
+  "bright": {
+    "rank": 1677,
+    "cefr": "C1"
+  },
+  "broadcast": {
+    "rank": 1678,
+    "cefr": "C1"
+  },
+  "calm": {
+    "rank": 1679,
+    "cefr": "C1"
+  },
+  "category": {
+    "rank": 1680,
+    "cefr": "C1"
+  },
+  "cheap": {
+    "rank": 1681,
+    "cefr": "C1"
+  },
+  "closely": {
+    "rank": 1682,
+    "cefr": "C1"
+  },
+  "conservative": {
+    "rank": 1683,
+    "cefr": "C1"
+  },
+  "frequently": {
+    "rank": 1684,
+    "cefr": "C1"
+  },
+  "fruit": {
+    "rank": 1685,
+    "cefr": "C1"
+  },
+  "giant": {
+    "rank": 1686,
+    "cefr": "C1"
+  },
+  "grace": {
+    "rank": 1687,
+    "cefr": "C1"
+  },
+  "greek": {
+    "rank": 1688,
+    "cefr": "C1"
+  },
+  "jersey": {
+    "rank": 1689,
+    "cefr": "C1"
+  },
+  "motion": {
+    "rank": 1690,
+    "cefr": "C1"
+  },
+  "muslim": {
+    "rank": 1691,
+    "cefr": "C1"
+  },
+  "orange": {
+    "rank": 1692,
+    "cefr": "C1"
+  },
+  "perfectly": {
+    "rank": 1693,
+    "cefr": "C1"
+  },
+  "portion": {
+    "rank": 1694,
+    "cefr": "C1"
+  },
+  "principal": {
+    "rank": 1695,
+    "cefr": "C1"
+  },
+  "print": {
+    "rank": 1696,
+    "cefr": "C1"
+  },
+  "refuse": {
+    "rank": 1697,
+    "cefr": "C1"
+  },
+  "relief": {
+    "rank": 1698,
+    "cefr": "C1"
+  },
+  "requirement": {
+    "rank": 1699,
+    "cefr": "C1"
+  },
+  "respond": {
+    "rank": 1700,
+    "cefr": "C1"
+  },
+  "settlement": {
+    "rank": 1701,
+    "cefr": "C1"
+  },
+  "shot": {
+    "rank": 1702,
+    "cefr": "C1"
+  },
+  "talent": {
+    "rank": 1703,
+    "cefr": "C1"
+  },
+  "tend": {
+    "rank": 1704,
+    "cefr": "C1"
+  },
+  "typically": {
+    "rank": 1705,
+    "cefr": "C1"
+  },
+  "upset": {
+    "rank": 1706,
+    "cefr": "C1"
+  },
+  "anybody": {
+    "rank": 1707,
+    "cefr": "C1"
+  },
+  "cable": {
+    "rank": 1708,
+    "cefr": "C1"
+  },
+  "expansion": {
+    "rank": 1709,
+    "cefr": "C1"
+  },
+  "inspire": {
+    "rank": 1710,
+    "cefr": "C1"
+  },
+  "invite": {
+    "rank": 1711,
+    "cefr": "C1"
+  },
+  "jail": {
+    "rank": 1712,
+    "cefr": "C1"
+  },
+  "loan": {
+    "rank": 1713,
+    "cefr": "C1"
+  },
+  "oppose": {
+    "rank": 1714,
+    "cefr": "C1"
+  },
+  "random": {
+    "rank": 1715,
+    "cefr": "C1"
+  },
+  "republican": {
+    "rank": 1716,
+    "cefr": "C1"
+  },
+  "somewhat": {
+    "rank": 1717,
+    "cefr": "C1"
+  },
+  "suicide": {
+    "rank": 1718,
+    "cefr": "C1"
+  },
+  "tooth": {
+    "rank": 1719,
+    "cefr": "C1"
+  },
+  "tower": {
+    "rank": 1720,
+    "cefr": "C1"
+  },
+  "unknown": {
+    "rank": 1721,
+    "cefr": "C1"
+  },
+  "widely": {
+    "rank": 1722,
+    "cefr": "C1"
+  },
+  "accurate": {
+    "rank": 1723,
+    "cefr": "C1"
+  },
+  "administrative": {
+    "rank": 1724,
+    "cefr": "C1"
+  },
+  "anniversary": {
+    "rank": 1725,
+    "cefr": "C1"
+  },
+  "aspect": {
+    "rank": 1726,
+    "cefr": "C1"
+  },
+  "asset": {
+    "rank": 1727,
+    "cefr": "C1"
+  },
+  "bottle": {
+    "rank": 1728,
+    "cefr": "C1"
+  },
+  "combat": {
+    "rank": 1729,
+    "cefr": "C1"
+  },
+  "concert": {
+    "rank": 1730,
+    "cefr": "C1"
+  },
+  "constant": {
+    "rank": 1731,
+    "cefr": "C1"
+  },
+  "consumer": {
+    "rank": 1732,
+    "cefr": "C1"
+  },
+  "convention": {
+    "rank": 1733,
+    "cefr": "C1"
+  },
+  "counter": {
+    "rank": 1734,
+    "cefr": "C1"
+  },
+  "coverage": {
+    "rank": 1735,
+    "cefr": "C1"
+  },
+  "cream": {
+    "rank": 1736,
+    "cefr": "C1"
+  },
+  "depression": {
+    "rank": 1737,
+    "cefr": "C1"
+  },
+  "editor": {
+    "rank": 1738,
+    "cefr": "C1"
+  },
+  "empire": {
+    "rank": 1739,
+    "cefr": "C1"
+  },
+  "engage": {
+    "rank": 1740,
+    "cefr": "C1"
+  },
+  "entitle": {
+    "rank": 1741,
+    "cefr": "C1"
+  },
+  "expert": {
+    "rank": 1742,
+    "cefr": "C1"
+  },
+  "hat": {
+    "rank": 1743,
+    "cefr": "C1"
+  },
+  "height": {
+    "rank": 1744,
+    "cefr": "C1"
+  },
+  "incident": {
+    "rank": 1745,
+    "cefr": "C1"
+  },
+  "introduction": {
+    "rank": 1746,
+    "cefr": "C1"
+  },
+  "joy": {
+    "rank": 1747,
+    "cefr": "C1"
+  },
+  "latin": {
+    "rank": 1748,
+    "cefr": "C1"
+  },
+  "novel": {
+    "rank": 1749,
+    "cefr": "C1"
+  },
+  "primarily": {
+    "rank": 1750,
+    "cefr": "C1"
+  },
+  "procedure": {
+    "rank": 1751,
+    "cefr": "C1"
+  },
+  "quit": {
+    "rank": 1752,
+    "cefr": "C1"
+  },
+  "register": {
+    "rank": 1753,
+    "cefr": "C1"
+  },
+  "relative": {
+    "rank": 1754,
+    "cefr": "C1"
+  },
+  "solo": {
+    "rank": 1755,
+    "cefr": "C1"
+  },
+  "surgery": {
+    "rank": 1756,
+    "cefr": "C1"
+  },
+  "truck": {
+    "rank": 1757,
+    "cefr": "C1"
+  },
+  "ultimately": {
+    "rank": 1758,
+    "cefr": "C1"
+  },
+  "unlike": {
+    "rank": 1759,
+    "cefr": "C1"
+  },
+  "wednesday": {
+    "rank": 1760,
+    "cefr": "C1"
+  },
+  "alright": {
+    "rank": 1761,
+    "cefr": "C1"
+  },
+  "attend": {
+    "rank": 1762,
+    "cefr": "C1"
+  },
+  "burn": {
+    "rank": 1763,
+    "cefr": "C1"
+  },
+  "bush": {
+    "rank": 1764,
+    "cefr": "C1"
+  },
+  "championship": {
+    "rank": 1765,
+    "cefr": "C1"
+  },
+  "circle": {
+    "rank": 1766,
+    "cefr": "C1"
+  },
+  "competitive": {
+    "rank": 1767,
+    "cefr": "C1"
+  },
+  "consequence": {
+    "rank": 1768,
+    "cefr": "C1"
+  },
+  "crash": {
+    "rank": 1769,
+    "cefr": "C1"
+  },
+  "cute": {
+    "rank": 1770,
+    "cefr": "C1"
+  },
+  "dirty": {
+    "rank": 1771,
+    "cefr": "C1"
+  },
+  "divide": {
+    "rank": 1772,
+    "cefr": "C1"
+  },
+  "electronic": {
+    "rank": 1773,
+    "cefr": "C1"
+  },
+  "equivalent": {
+    "rank": 1774,
+    "cefr": "C1"
+  },
+  "formal": {
+    "rank": 1775,
+    "cefr": "C1"
+  },
+  "format": {
+    "rank": 1776,
+    "cefr": "C1"
+  },
+  "hardly": {
+    "rank": 1777,
+    "cefr": "C1"
+  },
+  "incredible": {
+    "rank": 1778,
+    "cefr": "C1"
+  },
+  "lane": {
+    "rank": 1779,
+    "cefr": "C1"
+  },
+  "mate": {
+    "rank": 1780,
+    "cefr": "C1"
+  },
+  "nearby": {
+    "rank": 1781,
+    "cefr": "C1"
+  },
+  "noise": {
+    "rank": 1782,
+    "cefr": "C1"
+  },
+  "paint": {
+    "rank": 1783,
+    "cefr": "C1"
+  },
+  "payment": {
+    "rank": 1784,
+    "cefr": "C1"
+  },
+  "percentage": {
+    "rank": 1785,
+    "cefr": "C1"
+  },
+  "poverty": {
+    "rank": 1786,
+    "cefr": "C1"
+  },
+  "practical": {
+    "rank": 1787,
+    "cefr": "C1"
+  },
+  "promote": {
+    "rank": 1788,
+    "cefr": "C1"
+  },
+  "scheme": {
+    "rank": 1789,
+    "cefr": "C1"
+  },
+  "sight": {
+    "rank": 1790,
+    "cefr": "C1"
+  },
+  "tall": {
+    "rank": 1791,
+    "cefr": "C1"
+  },
+  "tight": {
+    "rank": 1792,
+    "cefr": "C1"
+  },
+  "tiny": {
+    "rank": 1793,
+    "cefr": "C1"
+  },
+  "tournament": {
+    "rank": 1794,
+    "cefr": "C1"
+  },
+  "transportation": {
+    "rank": 1795,
+    "cefr": "C1"
+  },
+  "universal": {
+    "rank": 1796,
+    "cefr": "C1"
+  },
+  "witness": {
+    "rank": 1797,
+    "cefr": "C1"
+  },
+  "academic": {
+    "rank": 1798,
+    "cefr": "C1"
+  },
+  "accuse": {
+    "rank": 1799,
+    "cefr": "C1"
+  },
+  "afford": {
+    "rank": 1800,
+    "cefr": "C1"
+  },
+  "aim": {
+    "rank": 1801,
+    "cefr": "C1"
+  },
+  "attach": {
+    "rank": 1802,
+    "cefr": "C1"
+  },
+  "attractive": {
+    "rank": 1803,
+    "cefr": "C1"
+  },
+  "cap": {
+    "rank": 1804,
+    "cefr": "C1"
+  },
+  "carbon": {
+    "rank": 1805,
+    "cefr": "C1"
+  },
+  "cheese": {
+    "rank": 1806,
+    "cefr": "C1"
+  },
+  "depth": {
+    "rank": 1807,
+    "cefr": "C1"
+  },
+  "deserve": {
+    "rank": 1808,
+    "cefr": "C1"
+  },
+  "discuss": {
+    "rank": 1809,
+    "cefr": "C1"
+  },
+  "duke": {
+    "rank": 1810,
+    "cefr": "C1"
+  },
+  "heavily": {
+    "rank": 1811,
+    "cefr": "C1"
+  },
+  "hockey": {
+    "rank": 1812,
+    "cefr": "C1"
+  },
+  "necessarily": {
+    "rank": 1813,
+    "cefr": "C1"
+  },
+  "nose": {
+    "rank": 1814,
+    "cefr": "C1"
+  },
+  "palace": {
+    "rank": 1815,
+    "cefr": "C1"
+  },
+  "philosophy": {
+    "rank": 1816,
+    "cefr": "C1"
+  },
+  "prefer": {
+    "rank": 1817,
+    "cefr": "C1"
+  },
+  "princess": {
+    "rank": 1818,
+    "cefr": "C1"
+  },
+  "recognition": {
+    "rank": 1819,
+    "cefr": "C1"
+  },
+  "sample": {
+    "rank": 1820,
+    "cefr": "C1"
+  },
+  "significantly": {
+    "rank": 1821,
+    "cefr": "C1"
+  },
+  "storage": {
+    "rank": 1822,
+    "cefr": "C1"
+  },
+  "sufficient": {
+    "rank": 1823,
+    "cefr": "C1"
+  },
+  "technique": {
+    "rank": 1824,
+    "cefr": "C1"
+  },
+  "theatre": {
+    "rank": 1825,
+    "cefr": "C1"
+  },
+  "vast": {
+    "rank": 1826,
+    "cefr": "C1"
+  },
+  "attorney": {
+    "rank": 1827,
+    "cefr": "C1"
+  },
+  "blind": {
+    "rank": 1828,
+    "cefr": "C1"
+  },
+  "brief": {
+    "rank": 1829,
+    "cefr": "C1"
+  },
+  "brilliant": {
+    "rank": 1830,
+    "cefr": "C1"
+  },
+  "bunch": {
+    "rank": 1831,
+    "cefr": "C1"
+  },
+  "commander": {
+    "rank": 1832,
+    "cefr": "C1"
+  },
+  "constantly": {
+    "rank": 1833,
+    "cefr": "C1"
+  },
+  "defeat": {
+    "rank": 1834,
+    "cefr": "C1"
+  },
+  "delivery": {
+    "rank": 1835,
+    "cefr": "C1"
+  },
+  "elsewhere": {
+    "rank": 1836,
+    "cefr": "C1"
+  },
+  "entertainment": {
+    "rank": 1837,
+    "cefr": "C1"
+  },
+  "excuse": {
+    "rank": 1838,
+    "cefr": "C1"
+  },
+  "factory": {
+    "rank": 1839,
+    "cefr": "C1"
+  },
+  "fake": {
+    "rank": 1840,
+    "cefr": "C1"
+  },
+  "flag": {
+    "rank": 1841,
+    "cefr": "C1"
+  },
+  "found": {
+    "rank": 1842,
+    "cefr": "C1"
+  },
+  "hide": {
+    "rank": 1843,
+    "cefr": "C1"
+  },
+  "motor": {
+    "rank": 1844,
+    "cefr": "C1"
+  },
+  "multi": {
+    "rank": 1845,
+    "cefr": "C1"
+  },
+  "musical": {
+    "rank": 1846,
+    "cefr": "C1"
+  },
+  "navy": {
+    "rank": 1847,
+    "cefr": "C1"
+  },
+  "officially": {
+    "rank": 1848,
+    "cefr": "C1"
+  },
+  "panel": {
+    "rank": 1849,
+    "cefr": "C1"
+  },
+  "personality": {
+    "rank": 1850,
+    "cefr": "C1"
+  },
+  "politician": {
+    "rank": 1851,
+    "cefr": "C1"
+  },
+  "pound": {
+    "rank": 1852,
+    "cefr": "C1"
+  },
+  "raw": {
+    "rank": 1853,
+    "cefr": "C1"
+  },
+  "rice": {
+    "rank": 1854,
+    "cefr": "C1"
+  },
+  "rid": {
+    "rank": 1855,
+    "cefr": "C1"
+  },
+  "scientist": {
+    "rank": 1856,
+    "cefr": "C1"
+  },
+  "soil": {
+    "rank": 1857,
+    "cefr": "C1"
+  },
+  "surely": {
+    "rank": 1858,
+    "cefr": "C1"
+  },
+  "switch": {
+    "rank": 1859,
+    "cefr": "C1"
+  },
+  "ultimate": {
+    "rank": 1860,
+    "cefr": "C1"
+  },
+  "violent": {
+    "rank": 1861,
+    "cefr": "C1"
+  },
+  "visual": {
+    "rank": 1862,
+    "cefr": "C1"
+  },
+  "wealth": {
+    "rank": 1863,
+    "cefr": "C1"
+  },
+  "wheel": {
+    "rank": 1864,
+    "cefr": "C1"
+  },
+  "worldwide": {
+    "rank": 1865,
+    "cefr": "C1"
+  },
+  "advertise": {
+    "rank": 1866,
+    "cefr": "C1"
+  },
+  "bond": {
+    "rank": 1867,
+    "cefr": "C1"
+  },
+  "bread": {
+    "rank": 1868,
+    "cefr": "C1"
+  },
+  "clinical": {
+    "rank": 1869,
+    "cefr": "C1"
+  },
+  "colour": {
+    "rank": 1870,
+    "cefr": "C1"
+  },
+  "comparison": {
+    "rank": 1871,
+    "cefr": "C1"
+  },
+  "contest": {
+    "rank": 1872,
+    "cefr": "C1"
+  },
+  "contribute": {
+    "rank": 1873,
+    "cefr": "C1"
+  },
+  "decade": {
+    "rank": 1874,
+    "cefr": "C1"
+  },
+  "earn": {
+    "rank": 1875,
+    "cefr": "C1"
+  },
+  "favourite": {
+    "rank": 1876,
+    "cefr": "C1"
+  },
+  "formation": {
+    "rank": 1877,
+    "cefr": "C1"
+  },
+  "golf": {
+    "rank": 1878,
+    "cefr": "C1"
+  },
+  "guest": {
+    "rank": 1879,
+    "cefr": "C1"
+  },
+  "historic": {
+    "rank": 1880,
+    "cefr": "C1"
+  },
+  "hong": {
+    "rank": 1881,
+    "cefr": "C1"
+  },
+  "hopefully": {
+    "rank": 1882,
+    "cefr": "C1"
+  },
+  "loud": {
+    "rank": 1883,
+    "cefr": "C1"
+  },
+  "manufacture": {
+    "rank": 1884,
+    "cefr": "C1"
+  },
+  "mess": {
+    "rank": 1885,
+    "cefr": "C1"
+  },
+  "observe": {
+    "rank": 1886,
+    "cefr": "C1"
+  },
+  "pattern": {
+    "rank": 1887,
+    "cefr": "C1"
+  },
+  "pregnant": {
+    "rank": 1888,
+    "cefr": "C1"
+  },
+  "proposal": {
+    "rank": 1889,
+    "cefr": "C1"
+  },
+  "regularly": {
+    "rank": 1890,
+    "cefr": "C1"
+  },
+  "roof": {
+    "rank": 1891,
+    "cefr": "C1"
+  },
+  "shame": {
+    "rank": 1892,
+    "cefr": "C1"
+  },
+  "smell": {
+    "rank": 1893,
+    "cefr": "C1"
+  },
+  "strongly": {
+    "rank": 1894,
+    "cefr": "C1"
+  },
+  "surround": {
+    "rank": 1895,
+    "cefr": "C1"
+  },
+  "tip": {
+    "rank": 1896,
+    "cefr": "C1"
+  },
+  "absolute": {
+    "rank": 1897,
+    "cefr": "C1"
+  },
+  "agricultural": {
+    "rank": 1898,
+    "cefr": "C1"
+  },
+  "arab": {
+    "rank": 1899,
+    "cefr": "C1"
+  },
+  "baseball": {
+    "rank": 1900,
+    "cefr": "C1"
+  },
+  "bathroom": {
+    "rank": 1901,
+    "cefr": "C1"
+  },
+  "belief": {
+    "rank": 1902,
+    "cefr": "C1"
+  },
+  "bye": {
+    "rank": 1903,
+    "cefr": "C1"
+  },
+  "castle": {
+    "rank": 1904,
+    "cefr": "C1"
+  },
+  "chest": {
+    "rank": 1905,
+    "cefr": "C1"
+  },
+  "childhood": {
+    "rank": 1906,
+    "cefr": "C1"
+  },
+  "confuse": {
+    "rank": 1907,
+    "cefr": "C1"
+  },
+  "criticism": {
+    "rank": 1908,
+    "cefr": "C1"
+  },
+  "egg": {
+    "rank": 1909,
+    "cefr": "C1"
+  },
+  "expose": {
+    "rank": 1910,
+    "cefr": "C1"
+  },
+  "extensive": {
+    "rank": 1911,
+    "cefr": "C1"
+  },
+  "ground": {
+    "rank": 1912,
+    "cefr": "C1"
+  },
+  "harm": {
+    "rank": 1913,
+    "cefr": "C1"
+  },
+  "heritage": {
+    "rank": 1914,
+    "cefr": "C1"
+  },
+  "ideal": {
+    "rank": 1915,
+    "cefr": "C1"
+  },
+  "interior": {
+    "rank": 1916,
+    "cefr": "C1"
+  },
+  "plate": {
+    "rank": 1917,
+    "cefr": "C1"
+  },
+  "plot": {
+    "rank": 1918,
+    "cefr": "C1"
+  },
+  "pope": {
+    "rank": 1919,
+    "cefr": "C1"
+  },
+  "premier": {
+    "rank": 1920,
+    "cefr": "C1"
+  },
+  "publication": {
+    "rank": 1921,
+    "cefr": "C1"
+  },
+  "regulation": {
+    "rank": 1922,
+    "cefr": "C1"
+  },
+  "repeat": {
+    "rank": 1923,
+    "cefr": "C1"
+  },
+  "researcher": {
+    "rank": 1924,
+    "cefr": "C1"
+  },
+  "stable": {
+    "rank": 1925,
+    "cefr": "C1"
+  },
+  "symptom": {
+    "rank": 1926,
+    "cefr": "C1"
+  },
+  "temporary": {
+    "rank": 1927,
+    "cefr": "C1"
+  },
+  "tie": {
+    "rank": 1928,
+    "cefr": "C1"
+  },
+  "visitor": {
+    "rank": 1929,
+    "cefr": "C1"
+  },
+  "wet": {
+    "rank": 1930,
+    "cefr": "C1"
+  },
+  "wise": {
+    "rank": 1931,
+    "cefr": "C1"
+  },
+  "yard": {
+    "rank": 1932,
+    "cefr": "C1"
+  },
+  "atmosphere": {
+    "rank": 1933,
+    "cefr": "C1"
+  },
+  "audio": {
+    "rank": 1934,
+    "cefr": "C1"
+  },
+  "battery": {
+    "rank": 1935,
+    "cefr": "C1"
+  },
+  "behaviour": {
+    "rank": 1936,
+    "cefr": "C1"
+  },
+  "effectively": {
+    "rank": 1937,
+    "cefr": "C1"
+  },
+  "establishment": {
+    "rank": 1938,
+    "cefr": "C1"
+  },
+  "evolution": {
+    "rank": 1939,
+    "cefr": "C1"
+  },
+  "exact": {
+    "rank": 1940,
+    "cefr": "C1"
+  },
+  "exclusive": {
+    "rank": 1941,
+    "cefr": "C1"
+  },
+  "extension": {
+    "rank": 1942,
+    "cefr": "C1"
+  },
+  "gate": {
+    "rank": 1943,
+    "cefr": "C1"
+  },
+  "hungry": {
+    "rank": 1944,
+    "cefr": "C1"
+  },
+  "improvement": {
+    "rank": 1945,
+    "cefr": "C1"
+  },
+  "indicate": {
+    "rank": 1946,
+    "cefr": "C1"
+  },
+  "initially": {
+    "rank": 1947,
+    "cefr": "C1"
+  },
+  "lift": {
+    "rank": 1948,
+    "cefr": "C1"
+  },
+  "moral": {
+    "rank": 1949,
+    "cefr": "C1"
+  },
+  "permission": {
+    "rank": 1950,
+    "cefr": "C1"
+  },
+  "plastic": {
+    "rank": 1951,
+    "cefr": "C1"
+  },
+  "santa": {
+    "rank": 1952,
+    "cefr": "C1"
+  },
+  "shortly": {
+    "rank": 1953,
+    "cefr": "C1"
+  },
+  "solar": {
+    "rank": 1954,
+    "cefr": "C1"
+  },
+  "subsequent": {
+    "rank": 1955,
+    "cefr": "C1"
+  },
+  "survive": {
+    "rank": 1956,
+    "cefr": "C1"
+  },
+  "swear": {
+    "rank": 1957,
+    "cefr": "C1"
+  },
+  "temple": {
+    "rank": 1958,
+    "cefr": "C1"
+  },
+  "treaty": {
+    "rank": 1959,
+    "cefr": "C1"
+  },
+  "trend": {
+    "rank": 1960,
+    "cefr": "C1"
+  },
+  "valuable": {
+    "rank": 1961,
+    "cefr": "C1"
+  },
+  "bike": {
+    "rank": 1962,
+    "cefr": "C1"
+  },
+  "breath": {
+    "rank": 1963,
+    "cefr": "C1"
+  },
+  "coal": {
+    "rank": 1964,
+    "cefr": "C1"
+  },
+  "curious": {
+    "rank": 1965,
+    "cefr": "C1"
+  },
+  "employ": {
+    "rank": 1966,
+    "cefr": "C1"
+  },
+  "fairly": {
+    "rank": 1967,
+    "cefr": "C1"
+  },
+  "finger": {
+    "rank": 1968,
+    "cefr": "C1"
+  },
+  "formula": {
+    "rank": 1969,
+    "cefr": "C1"
+  },
+  "increasingly": {
+    "rank": 1970,
+    "cefr": "C1"
+  },
+  "info": {
+    "rank": 1971,
+    "cefr": "C1"
+  },
+  "junior": {
+    "rank": 1972,
+    "cefr": "C1"
+  },
+  "les": {
+    "rank": 1973,
+    "cefr": "C1"
+  },
+  "meeting": {
+    "rank": 1974,
+    "cefr": "C1"
+  },
+  "peak": {
+    "rank": 1975,
+    "cefr": "C1"
+  },
+  "personally": {
+    "rank": 1976,
+    "cefr": "C1"
+  },
+  "rapid": {
+    "rank": 1977,
+    "cefr": "C1"
+  },
+  "rough": {
+    "rank": 1978,
+    "cefr": "C1"
+  },
+  "sin": {
+    "rank": 1979,
+    "cefr": "C1"
+  },
+  "somehow": {
+    "rank": 1980,
+    "cefr": "C1"
+  },
+  "uncle": {
+    "rank": 1981,
+    "cefr": "C1"
+  },
+  "weekly": {
+    "rank": 1982,
+    "cefr": "C1"
+  },
+  "absence": {
+    "rank": 1983,
+    "cefr": "C1"
+  },
+  "academy": {
+    "rank": 1984,
+    "cefr": "C1"
+  },
+  "agriculture": {
+    "rank": 1985,
+    "cefr": "C1"
+  },
+  "basketball": {
+    "rank": 1986,
+    "cefr": "C1"
+  },
+  "conclusion": {
+    "rank": 1987,
+    "cefr": "C1"
+  },
+  "consistent": {
+    "rank": 1988,
+    "cefr": "C1"
+  },
+  "consist": {
+    "rank": 1989,
+    "cefr": "C1"
+  },
+  "contemporary": {
+    "rank": 1990,
+    "cefr": "C1"
+  },
+  "defend": {
+    "rank": 1991,
+    "cefr": "C1"
+  },
+  "discovery": {
+    "rank": 1992,
+    "cefr": "C1"
+  },
+  "dumb": {
+    "rank": 1993,
+    "cefr": "C1"
+  },
+  "explanation": {
+    "rank": 1994,
+    "cefr": "C1"
+  },
+  "gross": {
+    "rank": 1995,
+    "cefr": "C1"
+  },
+  "hunt": {
+    "rank": 1996,
+    "cefr": "C1"
+  },
+  "ignore": {
+    "rank": 1997,
+    "cefr": "C1"
+  },
+  "infrastructure": {
+    "rank": 1998,
+    "cefr": "C1"
+  },
+  "inner": {
+    "rank": 1999,
+    "cefr": "C1"
+  },
+  "islamic": {
+    "rank": 2000,
+    "cefr": "C1"
+  },
+  "maintenance": {
+    "rank": 2001,
+    "cefr": "C1"
+  },
+  "meal": {
+    "rank": 2002,
+    "cefr": "C1"
+  },
+  "organisation": {
+    "rank": 2003,
+    "cefr": "C1"
+  },
+  "pant": {
+    "rank": 2004,
+    "cefr": "C1"
+  },
+  "rail": {
+    "rank": 2005,
+    "cefr": "C1"
+  },
+  "rush": {
+    "rank": 2006,
+    "cefr": "C1"
+  },
+  "semi": {
+    "rank": 2007,
+    "cefr": "C1"
+  },
+  "sharp": {
+    "rank": 2008,
+    "cefr": "C1"
+  },
+  "shoulder": {
+    "rank": 2009,
+    "cefr": "C1"
+  },
+  "silence": {
+    "rank": 2010,
+    "cefr": "C1"
+  },
+  "singer": {
+    "rank": 2011,
+    "cefr": "C1"
+  },
+  "soccer": {
+    "rank": 2012,
+    "cefr": "C1"
+  },
+  "spiritual": {
+    "rank": 2013,
+    "cefr": "C1"
+  },
+  "suspect": {
+    "rank": 2014,
+    "cefr": "C1"
+  },
+  "tear": {
+    "rank": 2015,
+    "cefr": "C1"
+  },
+  "tim": {
+    "rank": 2016,
+    "cefr": "C1"
+  },
+  "trick": {
+    "rank": 2017,
+    "cefr": "C1"
+  },
+  "unusual": {
+    "rank": 2018,
+    "cefr": "C1"
+  },
+  "whereas": {
+    "rank": 2019,
+    "cefr": "C1"
+  },
+  "alliance": {
+    "rank": 2020,
+    "cefr": "C1"
+  },
+  "angel": {
+    "rank": 2021,
+    "cefr": "C1"
+  },
+  "approval": {
+    "rank": 2022,
+    "cefr": "C1"
+  },
+  "argue": {
+    "rank": 2023,
+    "cefr": "C1"
+  },
+  "assessment": {
+    "rank": 2024,
+    "cefr": "C1"
+  },
+  "barely": {
+    "rank": 2025,
+    "cefr": "C1"
+  },
+  "bedroom": {
+    "rank": 2026,
+    "cefr": "C1"
+  },
+  "bishop": {
+    "rank": 2027,
+    "cefr": "C1"
+  },
+  "ceremony": {
+    "rank": 2028,
+    "cefr": "C1"
+  },
+  "chamber": {
+    "rank": 2029,
+    "cefr": "C1"
+  },
+  "charity": {
+    "rank": 2030,
+    "cefr": "C1"
+  },
+  "cloud": {
+    "rank": 2031,
+    "cefr": "C1"
+  },
+  "complicate": {
+    "rank": 2032,
+    "cefr": "C1"
+  },
+  "contrast": {
+    "rank": 2033,
+    "cefr": "C1"
+  },
+  "ethnic": {
+    "rank": 2034,
+    "cefr": "C1"
+  },
+  "farmer": {
+    "rank": 2035,
+    "cefr": "C1"
+  },
+  "fundamental": {
+    "rank": 2036,
+    "cefr": "C1"
+  },
+  "gap": {
+    "rank": 2037,
+    "cefr": "C1"
+  },
+  "grey": {
+    "rank": 2038,
+    "cefr": "C1"
+  },
+  "happiness": {
+    "rank": 2039,
+    "cefr": "C1"
+  },
+  "honour": {
+    "rank": 2040,
+    "cefr": "C1"
+  },
+  "horrible": {
+    "rank": 2041,
+    "cefr": "C1"
+  },
+  "household": {
+    "rank": 2042,
+    "cefr": "C1"
+  },
+  "inform": {
+    "rank": 2043,
+    "cefr": "C1"
+  },
+  "label": {
+    "rank": 2044,
+    "cefr": "C1"
+  },
+  "lesson": {
+    "rank": 2045,
+    "cefr": "C1"
+  },
+  "license": {
+    "rank": 2046,
+    "cefr": "C1"
+  },
+  "lieutenant": {
+    "rank": 2047,
+    "cefr": "C1"
+  },
+  "minority": {
+    "rank": 2048,
+    "cefr": "C1"
+  },
+  "naturally": {
+    "rank": 2049,
+    "cefr": "C1"
+  },
+  "nervous": {
+    "rank": 2050,
+    "cefr": "C1"
+  },
+  "passenger": {
+    "rank": 2051,
+    "cefr": "C1"
+  },
+  "pink": {
+    "rank": 2052,
+    "cefr": "C1"
+  },
+  "pray": {
+    "rank": 2053,
+    "cefr": "C1"
+  },
+  "prayer": {
+    "rank": 2054,
+    "cefr": "C1"
+  },
+  "promotion": {
+    "rank": 2055,
+    "cefr": "C1"
+  },
+  "protein": {
+    "rank": 2056,
+    "cefr": "C1"
+  },
+  "railway": {
+    "rank": 2057,
+    "cefr": "C1"
+  },
+  "reduction": {
+    "rank": 2058,
+    "cefr": "C1"
+  },
+  "regardless": {
+    "rank": 2059,
+    "cefr": "C1"
+  },
+  "regime": {
+    "rank": 2060,
+    "cefr": "C1"
+  },
+  "rescue": {
+    "rank": 2061,
+    "cefr": "C1"
+  },
+  "sensitive": {
+    "rank": 2062,
+    "cefr": "C1"
+  },
+  "server": {
+    "rank": 2063,
+    "cefr": "C1"
+  },
+  "settle": {
+    "rank": 2064,
+    "cefr": "C1"
+  },
+  "shadow": {
+    "rank": 2065,
+    "cefr": "C1"
+  },
+  "superior": {
+    "rank": 2066,
+    "cefr": "C1"
+  },
+  "therapy": {
+    "rank": 2067,
+    "cefr": "C1"
+  },
+  "acquire": {
+    "rank": 2068,
+    "cefr": "C1"
+  },
+  "appointment": {
+    "rank": 2069,
+    "cefr": "C1"
+  },
+  "awareness": {
+    "rank": 2070,
+    "cefr": "C1"
+  },
+  "awful": {
+    "rank": 2071,
+    "cefr": "C1"
+  },
+  "bind": {
+    "rank": 2072,
+    "cefr": "C1"
+  },
+  "celebrate": {
+    "rank": 2073,
+    "cefr": "C1"
+  },
+  "circuit": {
+    "rank": 2074,
+    "cefr": "C1"
+  },
+  "comedy": {
+    "rank": 2075,
+    "cefr": "C1"
+  },
+  "commissioner": {
+    "rank": 2076,
+    "cefr": "C1"
+  },
+  "component": {
+    "rank": 2077,
+    "cefr": "C1"
+  },
+  "consideration": {
+    "rank": 2078,
+    "cefr": "C1"
+  },
+  "convince": {
+    "rank": 2079,
+    "cefr": "C1"
+  },
+  "cousin": {
+    "rank": 2080,
+    "cefr": "C1"
+  },
+  "currency": {
+    "rank": 2081,
+    "cefr": "C1"
+  },
+  "deeply": {
+    "rank": 2082,
+    "cefr": "C1"
+  },
+  "dutch": {
+    "rank": 2083,
+    "cefr": "C1"
+  },
+  "electricity": {
+    "rank": 2084,
+    "cefr": "C1"
+  },
+  "exhibition": {
+    "rank": 2085,
+    "cefr": "C1"
+  },
+  "expectation": {
+    "rank": 2086,
+    "cefr": "C1"
+  },
+  "finding": {
+    "rank": 2087,
+    "cefr": "C1"
+  },
+  "gang": {
+    "rank": 2088,
+    "cefr": "C1"
+  },
+  "grab": {
+    "rank": 2089,
+    "cefr": "C1"
+  },
+  "islam": {
+    "rank": 2090,
+    "cefr": "C1"
+  },
+  "lock": {
+    "rank": 2091,
+    "cefr": "C1"
+  },
+  "mirror": {
+    "rank": 2092,
+    "cefr": "C1"
+  },
+  "muscle": {
+    "rank": 2093,
+    "cefr": "C1"
+  },
+  "mystery": {
+    "rank": 2094,
+    "cefr": "C1"
+  },
+  "objective": {
+    "rank": 2095,
+    "cefr": "C1"
+  },
+  "occasion": {
+    "rank": 2096,
+    "cefr": "C1"
+  },
+  "package": {
+    "rank": 2097,
+    "cefr": "C1"
+  },
+  "passion": {
+    "rank": 2098,
+    "cefr": "C1"
+  },
+  "pride": {
+    "rank": 2099,
+    "cefr": "C1"
+  },
+  "prisoner": {
+    "rank": 2100,
+    "cefr": "C1"
+  },
+  "recommend": {
+    "rank": 2101,
+    "cefr": "C2"
+  },
+  "reputation": {
+    "rank": 2102,
+    "cefr": "C2"
+  },
+  "successfully": {
+    "rank": 2103,
+    "cefr": "C2"
+  },
+  "telephone": {
+    "rank": 2104,
+    "cefr": "C2"
+  },
+  "topic": {
+    "rank": 2105,
+    "cefr": "C2"
+  },
+  "transition": {
+    "rank": 2106,
+    "cefr": "C2"
+  },
+  "translation": {
+    "rank": 2107,
+    "cefr": "C2"
+  },
+  "welfare": {
+    "rank": 2108,
+    "cefr": "C2"
+  },
+  "abroad": {
+    "rank": 2109,
+    "cefr": "C2"
+  },
+  "achievement": {
+    "rank": 2110,
+    "cefr": "C2"
+  },
+  "anger": {
+    "rank": 2111,
+    "cefr": "C2"
+  },
+  "cabinet": {
+    "rank": 2112,
+    "cefr": "C2"
+  },
+  "carefully": {
+    "rank": 2113,
+    "cefr": "C2"
+  },
+  "chart": {
+    "rank": 2114,
+    "cefr": "C2"
+  },
+  "colonel": {
+    "rank": 2115,
+    "cefr": "C2"
+  },
+  "concrete": {
+    "rank": 2116,
+    "cefr": "C2"
+  },
+  "decline": {
+    "rank": 2117,
+    "cefr": "C2"
+  },
+  "encourage": {
+    "rank": 2118,
+    "cefr": "C2"
+  },
+  "essentially": {
+    "rank": 2119,
+    "cefr": "C2"
+  },
+  "exception": {
+    "rank": 2120,
+    "cefr": "C2"
+  },
+  "fantasy": {
+    "rank": 2121,
+    "cefr": "C2"
+  },
+  "ford": {
+    "rank": 2122,
+    "cefr": "C2"
+  },
+  "fort": {
+    "rank": 2123,
+    "cefr": "C2"
+  },
+  "forth": {
+    "rank": 2124,
+    "cefr": "C2"
+  },
+  "illness": {
+    "rank": 2125,
+    "cefr": "C2"
+  },
+  "input": {
+    "rank": 2126,
+    "cefr": "C2"
+  },
+  "loose": {
+    "rank": 2127,
+    "cefr": "C2"
+  },
+  "mac": {
+    "rank": 2128,
+    "cefr": "C2"
+  },
+  "membership": {
+    "rank": 2129,
+    "cefr": "C2"
+  },
+  "offensive": {
+    "rank": 2130,
+    "cefr": "C2"
+  },
+  "olympic": {
+    "rank": 2131,
+    "cefr": "C2"
+  },
+  "output": {
+    "rank": 2132,
+    "cefr": "C2"
+  },
+  "outstanding": {
+    "rank": 2133,
+    "cefr": "C2"
+  },
+  "partnership": {
+    "rank": 2134,
+    "cefr": "C2"
+  },
+  "presidential": {
+    "rank": 2135,
+    "cefr": "C2"
+  },
+  "priest": {
+    "rank": 2136,
+    "cefr": "C2"
+  },
+  "quote": {
+    "rank": 2137,
+    "cefr": "C2"
+  },
+  "rarely": {
+    "rank": 2138,
+    "cefr": "C2"
+  },
+  "remote": {
+    "rank": 2139,
+    "cefr": "C2"
+  },
+  "respectively": {
+    "rank": 2140,
+    "cefr": "C2"
+  },
+  "shock": {
+    "rank": 2141,
+    "cefr": "C2"
+  },
+  "shower": {
+    "rank": 2142,
+    "cefr": "C2"
+  },
+  "speaker": {
+    "rank": 2143,
+    "cefr": "C2"
+  },
+  "suck": {
+    "rank": 2144,
+    "cefr": "C2"
+  },
+  "swim": {
+    "rank": 2145,
+    "cefr": "C2"
+  },
+  "tag": {
+    "rank": 2146,
+    "cefr": "C2"
+  },
+  "visible": {
+    "rank": 2147,
+    "cefr": "C2"
+  },
+  "acid": {
+    "rank": 2148,
+    "cefr": "C2"
+  },
+  "arrival": {
+    "rank": 2149,
+    "cefr": "C2"
+  },
+  "assign": {
+    "rank": 2150,
+    "cefr": "C2"
+  },
+  "auto": {
+    "rank": 2151,
+    "cefr": "C2"
+  },
+  "ban": {
+    "rank": 2152,
+    "cefr": "C2"
+  },
+  "cake": {
+    "rank": 2153,
+    "cefr": "C2"
+  },
+  "campus": {
+    "rank": 2154,
+    "cefr": "C2"
+  },
+  "commitment": {
+    "rank": 2155,
+    "cefr": "C2"
+  },
+  "conclude": {
+    "rank": 2156,
+    "cefr": "C2"
+  },
+  "custom": {
+    "rank": 2157,
+    "cefr": "C2"
+  },
+  "destruction": {
+    "rank": 2158,
+    "cefr": "C2"
+  },
+  "efficient": {
+    "rank": 2159,
+    "cefr": "C2"
+  },
+  "enforcement": {
+    "rank": 2160,
+    "cefr": "C2"
+  },
+  "entrance": {
+    "rank": 2161,
+    "cefr": "C2"
+  },
+  "examination": {
+    "rank": 2162,
+    "cefr": "C2"
+  },
+  "exposure": {
+    "rank": 2163,
+    "cefr": "C2"
+  },
+  "fee": {
+    "rank": 2164,
+    "cefr": "C2"
+  },
+  "frequency": {
+    "rank": 2165,
+    "cefr": "C2"
+  },
+  "gear": {
+    "rank": 2166,
+    "cefr": "C2"
+  },
+  "injure": {
+    "rank": 2167,
+    "cefr": "C2"
+  },
+  "intense": {
+    "rank": 2168,
+    "cefr": "C2"
+  },
+  "legend": {
+    "rank": 2169,
+    "cefr": "C2"
+  },
+  "monitor": {
+    "rank": 2170,
+    "cefr": "C2"
+  },
+  "monster": {
+    "rank": 2171,
+    "cefr": "C2"
+  },
+  "mood": {
+    "rank": 2172,
+    "cefr": "C2"
+  },
+  "ordinary": {
+    "rank": 2173,
+    "cefr": "C2"
+  },
+  "penalty": {
+    "rank": 2174,
+    "cefr": "C2"
+  },
+  "pocket": {
+    "rank": 2175,
+    "cefr": "C2"
+  },
+  "retail": {
+    "rank": 2176,
+    "cefr": "C2"
+  },
+  "retirement": {
+    "rank": 2177,
+    "cefr": "C2"
+  },
+  "ridiculous": {
+    "rank": 2178,
+    "cefr": "C2"
+  },
+  "senator": {
+    "rank": 2179,
+    "cefr": "C2"
+  },
+  "silent": {
+    "rank": 2180,
+    "cefr": "C2"
+  },
+  "steal": {
+    "rank": 2181,
+    "cefr": "C2"
+  },
+  "strategic": {
+    "rank": 2182,
+    "cefr": "C2"
+  },
+  "thin": {
+    "rank": 2183,
+    "cefr": "C2"
+  },
+  "threaten": {
+    "rank": 2184,
+    "cefr": "C2"
+  },
+  "tone": {
+    "rank": 2185,
+    "cefr": "C2"
+  },
+  "tongue": {
+    "rank": 2186,
+    "cefr": "C2"
+  },
+  "virus": {
+    "rank": 2187,
+    "cefr": "C2"
+  },
+  "abandon": {
+    "rank": 2188,
+    "cefr": "C2"
+  },
+  "afterwards": {
+    "rank": 2189,
+    "cefr": "C2"
+  },
+  "architecture": {
+    "rank": 2190,
+    "cefr": "C2"
+  },
+  "assault": {
+    "rank": 2191,
+    "cefr": "C2"
+  },
+  "badly": {
+    "rank": 2192,
+    "cefr": "C2"
+  },
+  "belong": {
+    "rank": 2193,
+    "cefr": "C2"
+  },
+  "bone": {
+    "rank": 2194,
+    "cefr": "C2"
+  },
+  "bury": {
+    "rank": 2195,
+    "cefr": "C2"
+  },
+  "capture": {
+    "rank": 2196,
+    "cefr": "C2"
+  },
+  "chase": {
+    "rank": 2197,
+    "cefr": "C2"
+  },
+  "chocolate": {
+    "rank": 2198,
+    "cefr": "C2"
+  },
+  "communist": {
+    "rank": 2199,
+    "cefr": "C2"
+  },
+  "delay": {
+    "rank": 2200,
+    "cefr": "C2"
+  },
+  "everyday": {
+    "rank": 2201,
+    "cefr": "C2"
+  },
+  "flash": {
+    "rank": 2202,
+    "cefr": "C2"
+  },
+  "folk": {
+    "rank": 2203,
+    "cefr": "C2"
+  },
+  "gallery": {
+    "rank": 2204,
+    "cefr": "C2"
+  },
+  "guitar": {
+    "rank": 2205,
+    "cefr": "C2"
+  },
+  "headquarter": {
+    "rank": 2206,
+    "cefr": "C2"
+  },
+  "hip": {
+    "rank": 2207,
+    "cefr": "C2"
+  },
+  "immigration": {
+    "rank": 2208,
+    "cefr": "C2"
+  },
+  "jimmy": {
+    "rank": 2209,
+    "cefr": "C2"
+  },
+  "legislative": {
+    "rank": 2210,
+    "cefr": "C2"
+  },
+  "meanwhile": {
+    "rank": 2211,
+    "cefr": "C2"
+  },
+  "mount": {
+    "rank": 2212,
+    "cefr": "C2"
+  },
+  "naked": {
+    "rank": 2213,
+    "cefr": "C2"
+  },
+  "neighborhood": {
+    "rank": 2214,
+    "cefr": "C2"
+  },
+  "plain": {
+    "rank": 2215,
+    "cefr": "C2"
+  },
+  "root": {
+    "rank": 2216,
+    "cefr": "C2"
+  },
+  "sake": {
+    "rank": 2217,
+    "cefr": "C2"
+  },
+  "sand": {
+    "rank": 2218,
+    "cefr": "C2"
+  },
+  "solve": {
+    "rank": 2219,
+    "cefr": "C2"
+  },
+  "steam": {
+    "rank": 2220,
+    "cefr": "C2"
+  },
+  "stomach": {
+    "rank": 2221,
+    "cefr": "C2"
+  },
+  "string": {
+    "rank": 2222,
+    "cefr": "C2"
+  },
+  "summary": {
+    "rank": 2223,
+    "cefr": "C2"
+  },
+  "ton": {
+    "rank": 2224,
+    "cefr": "C2"
+  },
+  "wage": {
+    "rank": 2225,
+    "cefr": "C2"
+  },
+  "whoever": {
+    "rank": 2226,
+    "cefr": "C2"
+  },
+  "bath": {
+    "rank": 2227,
+    "cefr": "C2"
+  },
+  "characteristic": {
+    "rank": 2228,
+    "cefr": "C2"
+  },
+  "clock": {
+    "rank": 2229,
+    "cefr": "C2"
+  },
+  "concentration": {
+    "rank": 2230,
+    "cefr": "C2"
+  },
+  "consumption": {
+    "rank": 2231,
+    "cefr": "C2"
+  },
+  "contribution": {
+    "rank": 2232,
+    "cefr": "C2"
+  },
+  "desert": {
+    "rank": 2233,
+    "cefr": "C2"
+  },
+  "dramatic": {
+    "rank": 2234,
+    "cefr": "C2"
+  },
+  "ear": {
+    "rank": 2235,
+    "cefr": "C2"
+  },
+  "enterprise": {
+    "rank": 2236,
+    "cefr": "C2"
+  },
+  "fleet": {
+    "rank": 2237,
+    "cefr": "C2"
+  },
+  "helpful": {
+    "rank": 2238,
+    "cefr": "C2"
+  },
+  "impressive": {
+    "rank": 2239,
+    "cefr": "C2"
+  },
+  "install": {
+    "rank": 2240,
+    "cefr": "C2"
+  },
+  "knife": {
+    "rank": 2241,
+    "cefr": "C2"
+  },
+  "logic": {
+    "rank": 2242,
+    "cefr": "C2"
+  },
+  "merely": {
+    "rank": 2243,
+    "cefr": "C2"
+  },
+  "mum": {
+    "rank": 2244,
+    "cefr": "C2"
+  },
+  "outcome": {
+    "rank": 2245,
+    "cefr": "C2"
+  },
+  "ownership": {
+    "rank": 2246,
+    "cefr": "C2"
+  },
+  "possession": {
+    "rank": 2247,
+    "cefr": "C2"
+  },
+  "rank": {
+    "rank": 2248,
+    "cefr": "C2"
+  },
+  "rat": {
+    "rank": 2249,
+    "cefr": "C2"
+  },
+  "recall": {
+    "rank": 2250,
+    "cefr": "C2"
+  },
+  "reject": {
+    "rank": 2251,
+    "cefr": "C2"
+  },
+  "tape": {
+    "rank": 2252,
+    "cefr": "C2"
+  },
+  "amendment": {
+    "rank": 2253,
+    "cefr": "C2"
+  },
+  "behalf": {
+    "rank": 2254,
+    "cefr": "C2"
+  },
+  "bother": {
+    "rank": 2255,
+    "cefr": "C2"
+  },
+  "buddy": {
+    "rank": 2256,
+    "cefr": "C2"
+  },
+  "bureau": {
+    "rank": 2257,
+    "cefr": "C2"
+  },
+  "comfort": {
+    "rank": 2258,
+    "cefr": "C2"
+  },
+  "commonly": {
+    "rank": 2259,
+    "cefr": "C2"
+  },
+  "critic": {
+    "rank": 2260,
+    "cefr": "C2"
+  },
+  "debut": {
+    "rank": 2261,
+    "cefr": "C2"
+  },
+  "disappoint": {
+    "rank": 2262,
+    "cefr": "C2"
+  },
+  "economics": {
+    "rank": 2263,
+    "cefr": "C2"
+  },
+  "equally": {
+    "rank": 2264,
+    "cefr": "C2"
+  },
+  "fate": {
+    "rank": 2265,
+    "cefr": "C2"
+  },
+  "favour": {
+    "rank": 2266,
+    "cefr": "C2"
+  },
+  "forum": {
+    "rank": 2267,
+    "cefr": "C2"
+  },
+  "francis": {
+    "rank": 2268,
+    "cefr": "C2"
+  },
+  "ghost": {
+    "rank": 2269,
+    "cefr": "C2"
+  },
+  "gray": {
+    "rank": 2270,
+    "cefr": "C2"
+  },
+  "guarantee": {
+    "rank": 2271,
+    "cefr": "C2"
+  },
+  "hence": {
+    "rank": 2272,
+    "cefr": "C2"
+  },
+  "highway": {
+    "rank": 2273,
+    "cefr": "C2"
+  },
+  "inch": {
+    "rank": 2274,
+    "cefr": "C2"
+  },
+  "innocent": {
+    "rank": 2275,
+    "cefr": "C2"
+  },
+  "jane": {
+    "rank": 2276,
+    "cefr": "C2"
+  },
+  "monthly": {
+    "rank": 2277,
+    "cefr": "C2"
+  },
+  "negotiation": {
+    "rank": 2278,
+    "cefr": "C2"
+  },
+  "newly": {
+    "rank": 2279,
+    "cefr": "C2"
+  },
+  "organic": {
+    "rank": 2280,
+    "cefr": "C2"
+  },
+  "participant": {
+    "rank": 2281,
+    "cefr": "C2"
+  },
+  "participate": {
+    "rank": 2282,
+    "cefr": "C2"
+  },
+  "pitch": {
+    "rank": 2283,
+    "cefr": "C2"
+  },
+  "poetry": {
+    "rank": 2284,
+    "cefr": "C2"
+  },
+  "qualify": {
+    "rank": 2285,
+    "cefr": "C2"
+  },
+  "reflect": {
+    "rank": 2286,
+    "cefr": "C2"
+  },
+  "replacement": {
+    "rank": 2287,
+    "cefr": "C2"
+  },
+  "representation": {
+    "rank": 2288,
+    "cefr": "C2"
+  },
+  "romantic": {
+    "rank": 2289,
+    "cefr": "C2"
+  },
+  "substantial": {
+    "rank": 2290,
+    "cefr": "C2"
+  },
+  "summit": {
+    "rank": 2291,
+    "cefr": "C2"
+  },
+  "thirty": {
+    "rank": 2292,
+    "cefr": "C2"
+  },
+  "vital": {
+    "rank": 2293,
+    "cefr": "C2"
+  },
+  "adventure": {
+    "rank": 2294,
+    "cefr": "C2"
+  },
+  "alan": {
+    "rank": 2295,
+    "cefr": "C2"
+  },
+  "alongside": {
+    "rank": 2296,
+    "cefr": "C2"
+  },
+  "bore": {
+    "rank": 2297,
+    "cefr": "C2"
+  },
+  "chat": {
+    "rank": 2298,
+    "cefr": "C2"
+  },
+  "constitutional": {
+    "rank": 2299,
+    "cefr": "C2"
+  },
+  "deny": {
+    "rank": 2300,
+    "cefr": "C2"
+  },
+  "dust": {
+    "rank": 2301,
+    "cefr": "C2"
+  },
+  "electrical": {
+    "rank": 2302,
+    "cefr": "C2"
+  },
+  "extraordinary": {
+    "rank": 2303,
+    "cefr": "C2"
+  },
+  "founder": {
+    "rank": 2304,
+    "cefr": "C2"
+  },
+  "friendship": {
+    "rank": 2305,
+    "cefr": "C2"
+  },
+  "glory": {
+    "rank": 2306,
+    "cefr": "C2"
+  },
+  "graduate": {
+    "rank": 2307,
+    "cefr": "C2"
+  },
+  "instrument": {
+    "rank": 2308,
+    "cefr": "C2"
+  },
+  "interpretation": {
+    "rank": 2309,
+    "cefr": "C2"
+  },
+  "involvement": {
+    "rank": 2310,
+    "cefr": "C2"
+  },
+  "killer": {
+    "rank": 2311,
+    "cefr": "C2"
+  },
+  "mini": {
+    "rank": 2312,
+    "cefr": "C2"
+  },
+  "morgan": {
+    "rank": 2313,
+    "cefr": "C2"
+  },
+  "narrow": {
+    "rank": 2314,
+    "cefr": "C2"
+  },
+  "odd": {
+    "rank": 2315,
+    "cefr": "C2"
+  },
+  "oxford": {
+    "rank": 2316,
+    "cefr": "C2"
+  },
+  "participation": {
+    "rank": 2317,
+    "cefr": "C2"
+  },
+  "priority": {
+    "rank": 2318,
+    "cefr": "C2"
+  },
+  "producer": {
+    "rank": 2319,
+    "cefr": "C2"
+  },
+  "ratio": {
+    "rank": 2320,
+    "cefr": "C2"
+  },
+  "retire": {
+    "rank": 2321,
+    "cefr": "C2"
+  },
+  "satellite": {
+    "rank": 2322,
+    "cefr": "C2"
+  },
+  "seed": {
+    "rank": 2323,
+    "cefr": "C2"
+  },
+  "sudden": {
+    "rank": 2324,
+    "cefr": "C2"
+  },
+  "sum": {
+    "rank": 2325,
+    "cefr": "C2"
+  },
+  "survival": {
+    "rank": 2326,
+    "cefr": "C2"
+  },
+  "sword": {
+    "rank": 2327,
+    "cefr": "C2"
+  },
+  "thick": {
+    "rank": 2328,
+    "cefr": "C2"
+  },
+  "trail": {
+    "rank": 2329,
+    "cefr": "C2"
+  },
+  "ugly": {
+    "rank": 2330,
+    "cefr": "C2"
+  },
+  "valid": {
+    "rank": 2331,
+    "cefr": "C2"
+  },
+  "vol": {
+    "rank": 2332,
+    "cefr": "C2"
+  },
+  "wash": {
+    "rank": 2333,
+    "cefr": "C2"
+  },
+  "wire": {
+    "rank": 2334,
+    "cefr": "C2"
+  },
+  "amazon": {
+    "rank": 2335,
+    "cefr": "C2"
+  },
+  "angle": {
+    "rank": 2336,
+    "cefr": "C2"
+  },
+  "anxiety": {
+    "rank": 2337,
+    "cefr": "C2"
+  },
+  "asleep": {
+    "rank": 2338,
+    "cefr": "C2"
+  },
+  "confident": {
+    "rank": 2339,
+    "cefr": "C2"
+  },
+  "cooperation": {
+    "rank": 2340,
+    "cefr": "C2"
+  },
+  "corruption": {
+    "rank": 2341,
+    "cefr": "C2"
+  },
+  "crack": {
+    "rank": 2342,
+    "cefr": "C2"
+  },
+  "database": {
+    "rank": 2343,
+    "cefr": "C2"
+  },
+  "dave": {
+    "rank": 2344,
+    "cefr": "C2"
+  },
+  "der": {
+    "rank": 2345,
+    "cefr": "C2"
+  },
+  "difficulty": {
+    "rank": 2346,
+    "cefr": "C2"
+  },
+  "disaster": {
+    "rank": 2347,
+    "cefr": "C2"
+  },
+  "dragon": {
+    "rank": 2348,
+    "cefr": "C2"
+  },
+  "efficiency": {
+    "rank": 2349,
+    "cefr": "C2"
+  },
+  "generate": {
+    "rank": 2350,
+    "cefr": "C2"
+  },
+  "hire": {
+    "rank": 2351,
+    "cefr": "C2"
+  },
+  "honey": {
+    "rank": 2352,
+    "cefr": "C2"
+  },
+  "humanity": {
+    "rank": 2353,
+    "cefr": "C2"
+  },
+  "hunter": {
+    "rank": 2354,
+    "cefr": "C2"
+  },
+  "infection": {
+    "rank": 2355,
+    "cefr": "C2"
+  },
+  "intention": {
+    "rank": 2356,
+    "cefr": "C2"
+  },
+  "johnny": {
+    "rank": 2357,
+    "cefr": "C2"
+  },
+  "journalist": {
+    "rank": 2358,
+    "cefr": "C2"
+  },
+  "jury": {
+    "rank": 2359,
+    "cefr": "C2"
+  },
+  "laboratory": {
+    "rank": 2360,
+    "cefr": "C2"
+  },
+  "landscape": {
+    "rank": 2361,
+    "cefr": "C2"
+  },
+  "liquid": {
+    "rank": 2362,
+    "cefr": "C2"
+  },
+  "occasionally": {
+    "rank": 2363,
+    "cefr": "C2"
+  },
+  "occupy": {
+    "rank": 2364,
+    "cefr": "C2"
+  },
+  "ohio": {
+    "rank": 2365,
+    "cefr": "C2"
+  },
+  "parliamentary": {
+    "rank": 2366,
+    "cefr": "C2"
+  },
+  "preparation": {
+    "rank": 2367,
+    "cefr": "C2"
+  },
+  "rapidly": {
+    "rank": 2368,
+    "cefr": "C2"
+  },
+  "residence": {
+    "rank": 2369,
+    "cefr": "C2"
+  },
+  "rugby": {
+    "rank": 2370,
+    "cefr": "C2"
+  },
+  "saving": {
+    "rank": 2371,
+    "cefr": "C2"
+  },
+  "sheet": {
+    "rank": 2372,
+    "cefr": "C2"
+  },
+  "shell": {
+    "rank": 2373,
+    "cefr": "C2"
+  },
+  "strip": {
+    "rank": 2374,
+    "cefr": "C2"
+  },
+  "substance": {
+    "rank": 2375,
+    "cefr": "C2"
+  },
+  "terrorist": {
+    "rank": 2376,
+    "cefr": "C2"
+  },
+  "twelve": {
+    "rank": 2377,
+    "cefr": "C2"
+  },
+  "vessel": {
+    "rank": 2378,
+    "cefr": "C2"
+  },
+  "yep": {
+    "rank": 2379,
+    "cefr": "C2"
+  },
+  "assist": {
+    "rank": 2380,
+    "cefr": "C2"
+  },
+  "bonus": {
+    "rank": 2381,
+    "cefr": "C2"
+  },
+  "comic": {
+    "rank": 2382,
+    "cefr": "C2"
+  },
+  "compose": {
+    "rank": 2383,
+    "cefr": "C2"
+  },
+  "designate": {
+    "rank": 2384,
+    "cefr": "C2"
+  },
+  "desk": {
+    "rank": 2385,
+    "cefr": "C2"
+  },
+  "diamond": {
+    "rank": 2386,
+    "cefr": "C2"
+  },
+  "distribute": {
+    "rank": 2387,
+    "cefr": "C2"
+  },
+  "divorce": {
+    "rank": 2388,
+    "cefr": "C2"
+  },
+  "experiment": {
+    "rank": 2389,
+    "cefr": "C2"
+  },
+  "federation": {
+    "rank": 2390,
+    "cefr": "C2"
+  },
+  "feedback": {
+    "rank": 2391,
+    "cefr": "C2"
+  },
+  "gather": {
+    "rank": 2392,
+    "cefr": "C2"
+  },
+  "horror": {
+    "rank": 2393,
+    "cefr": "C2"
+  },
+  "lab": {
+    "rank": 2394,
+    "cefr": "C2"
+  },
+  "lately": {
+    "rank": 2395,
+    "cefr": "C2"
+  },
+  "math": {
+    "rank": 2396,
+    "cefr": "C2"
+  },
+  "moreover": {
+    "rank": 2397,
+    "cefr": "C2"
+  },
+  "nowhere": {
+    "rank": 2398,
+    "cefr": "C2"
+  },
+  "ongoing": {
+    "rank": 2399,
+    "cefr": "C2"
+  },
+  "pan": {
+    "rank": 2400,
+    "cefr": "C2"
+  }
+}
