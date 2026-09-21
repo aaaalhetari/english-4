@@ -12,7 +12,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -24,17 +24,19 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
+          cache: npm
 
+      # npm ci installs the exact versions pinned in package-lock.json,
+      # so every build uses the same, tested dependencies
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      # Sets the base path to /<repo-name>/ automatically, which GitHub Pages
-      # project sites require (skip this if you use a custom domain / user site)
       - name: Generate static site
         run: npm run generate
         env:
           NUXT_APP_BASE_URL: /${{ github.event.repository.name }}/
+          NODE_OPTIONS: --max-old-space-size=6144
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
